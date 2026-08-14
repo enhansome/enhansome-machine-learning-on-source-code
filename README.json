@@ -55,10 +55,10 @@
           "repo_info": {
             "archived": false,
             "language": "Makefile",
-            "last_commit": "2026-08-12T06:21:30Z",
+            "last_commit": "2026-08-13T21:48:08Z",
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39562
+            "stars": 39569
           }
         },
         {
@@ -522,7 +522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:30:23.641Z",
+    "last_updated": "2026-08-14T19:18:13.418Z",
     "original_repository": "src-d/awesome-machine-learning-on-source-code",
     "original_repository_sha": "ffe963691748e6c085df824598eab2d3771ad4c8",
     "enhanced_repository": "enhansome/enhansome-machine-learning-on-source-code",
