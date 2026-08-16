@@ -58,7 +58,7 @@
             "last_commit": "2026-08-13T21:48:08Z",
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39579
+            "stars": 39589
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2023-02-07T08:25:31Z",
             "owner": "src-d",
             "repo": "hercules",
-            "stars": 2805
+            "stars": 2804
           }
         },
         {
@@ -344,7 +344,7 @@
             "last_commit": "2022-04-10T11:14:17Z",
             "owner": "src-d",
             "repo": "go-git",
-            "stars": 4876
+            "stars": 4874
           }
         },
         {
@@ -476,7 +476,7 @@
             "last_commit": "2017-12-08T16:58:31Z",
             "owner": "google-deepmind",
             "repo": "card2code",
-            "stars": 245
+            "stars": 246
           }
         },
         {
@@ -522,7 +522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T18:50:57.079Z",
+    "last_updated": "2026-08-16T18:50:05.264Z",
     "original_repository": "src-d/awesome-machine-learning-on-source-code",
     "original_repository_sha": "ffe963691748e6c085df824598eab2d3771ad4c8",
     "enhanced_repository": "enhansome/enhansome-machine-learning-on-source-code",
