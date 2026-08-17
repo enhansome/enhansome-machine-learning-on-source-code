@@ -58,7 +58,7 @@
             "last_commit": "2026-08-13T21:48:08Z",
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39589
+            "stars": 39597
           }
         },
         {
@@ -522,7 +522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:50:05.264Z",
+    "last_updated": "2026-08-17T19:02:05.685Z",
     "original_repository": "src-d/awesome-machine-learning-on-source-code",
     "original_repository_sha": "ffe963691748e6c085df824598eab2d3771ad4c8",
     "enhanced_repository": "enhansome/enhansome-machine-learning-on-source-code",
