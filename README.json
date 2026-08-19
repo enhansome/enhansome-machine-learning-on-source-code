@@ -1,529 +1,560 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Convolutional Neural Networks over Tree Structures for Programming Language Processing",
+              "description": "Lili Mou, Ge Li, Lu Zhang, Tao Wang, Zhi Jin, AAAI-16. Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88279884,
+                "language": "Python",
+                "last_commit": "2017-09-09T15:44:26Z",
+                "owner": "crestonbunch",
+                "repo": "tbcnn",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep Learning Type Inference",
+              "description": "Vincent J. Hellendoorn, Christian Bird, Earl T. Barr and Miltiadis Allamanis, FSE 2018. Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132805965,
+                "language": "Python",
+                "last_commit": "2020-02-12T21:47:44Z",
+                "owner": "DeepTyper",
+                "repo": "DeepTyper",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Source Code Analysis and Language modeling"
+        }
+      ],
       "title": "Papers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Convolutional Neural Networks over Tree Structures for Programming Language Processing",
-          "description": "Lili Mou, Ge Li, Lu Zhang, Tao Wang, Zhi Jin, AAAI-16. Code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-09-09T15:44:26Z",
-            "owner": "crestonbunch",
-            "repo": "tbcnn",
-            "stars": 154
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MindsDB",
+              "description": "MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143328315,
+                "language": "Makefile",
+                "last_commit": "2026-08-13T21:48:08Z",
+                "owner": "mindsdb",
+                "repo": "mindshub",
+                "stars": 39606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hercules",
+              "description": "Git repository mining framework with batteries on top of go-git.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76279648,
+                "language": "Go",
+                "last_commit": "2023-02-07T08:25:31Z",
+                "owner": "src-d",
+                "repo": "hercules",
+                "stars": 2805
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Differentiable Neural Computer (DNC)",
+              "description": "TensorFlow implementation of the Differentiable Neural Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86463017,
+                "language": "Python",
+                "last_commit": "2021-07-23T08:02:12Z",
+                "owner": "google-deepmind",
+                "repo": "dnc",
+                "stars": 2531
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "enry",
+              "description": "Insanely fast file based programming language detector.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63264762,
+                "language": "Go",
+                "last_commit": "2021-11-14T12:23:25Z",
+                "owner": "src-d",
+                "repo": "enry",
+                "stars": 455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepCS",
+              "description": "Keras and Pytorch implementations of DeepCS (Deep Code Search).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121241775,
+                "language": "Python",
+                "last_commit": "2022-05-26T14:32:51Z",
+                "owner": "guxd",
+                "repo": "deep-code-search",
+                "stars": 285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Summarizing Source Code using a Neural Attention Model",
+              "description": "CODE-NN, uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Torch over C#/SQL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60563775,
+                "language": "Python",
+                "last_commit": "2023-01-23T21:04:53Z",
+                "owner": "sriniiyer",
+                "repo": "codenn",
+                "stars": 238
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepBugs",
+              "description": "Framework for learning bug detectors from an existing code corpus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111794887,
+                "language": "JavaScript",
+                "last_commit": "2021-04-07T14:46:09Z",
+                "owner": "michaelpradel",
+                "repo": "DeepBugs",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sourced.ml",
+              "description": "Abstracts feature extraction from source code syntax trees and working with ML models.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 94111019,
+                "language": "Python",
+                "last_commit": "2019-05-22T09:56:11Z",
+                "owner": "src-d",
+                "repo": "ml",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Extreme Source Code Summarization",
+              "description": "Convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 58241731,
+                "language": "HTML",
+                "last_commit": "2016-07-19T09:27:39Z",
+                "owner": "mast-group",
+                "repo": "convolutional-attention",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepSim",
+              "description": "a deep learning-based approach to measure code functional similarity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142032964,
+                "language": "Python",
+                "last_commit": "2019-06-11T10:27:42Z",
+                "owner": "parasol-aser",
+                "repo": "deepsim",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gemini",
+              "description": "Source code deduplication as scale, production.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112457042,
+                "language": "Scala",
+                "last_commit": "2019-06-06T12:53:22Z",
+                "owner": "src-d",
+                "repo": "gemini",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Naturalize",
+              "description": "Language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 41926068,
+                "language": "Java",
+                "last_commit": "2015-09-05T21:53:02Z",
+                "owner": "mast-group",
+                "repo": "naturalize",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Probabilistic API Miner",
+              "description": "Near parameter-free probabilistic algorithm for mining the most interesting API patterns from a list of API call sequences.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 38424145,
+                "language": "Java",
+                "last_commit": "2018-01-08T11:32:04Z",
+                "owner": "mast-group",
+                "repo": "api-mining",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "apollo",
+              "description": "Source code deduplication as scale, research.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108382486,
+                "language": "Python",
+                "last_commit": "2022-09-05T11:20:40Z",
+                "owner": "src-d",
+                "repo": "apollo",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vecino",
+              "description": "Finds similar Git repositories.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94335054,
+                "language": "Python",
+                "last_commit": "2019-08-20T09:52:52Z",
+                "owner": "src-d",
+                "repo": "vecino",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Interesting Sequence Miner",
+              "description": "Novel algorithm that mines the most interesting sequences under a probabilistic model. It is able to efficiently infer interesting sequences directly from the database.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 44307374,
+                "language": "Java",
+                "last_commit": "2018-04-25T10:41:16Z",
+                "owner": "mast-group",
+                "repo": "sequence-mining",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TASSAL",
+              "description": "Tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 28146647,
+                "language": "Java",
+                "last_commit": "2016-07-30T10:47:38Z",
+                "owner": "mast-group",
+                "repo": "tassal",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sensibility",
+              "description": "Uses LSTMs to detect and correct syntax errors in Java source code.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 93442311,
+                "language": "Python",
+                "last_commit": "2021-11-14T09:45:57Z",
+                "owner": "naturalness",
+                "repo": "sensibility",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code Neuron",
+              "description": "Recurrent neural network to detect code blocks in natural language text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123677637,
+                "language": "Python",
+                "last_commit": "2018-12-10T18:11:24Z",
+                "owner": "vmarkovtsev",
+                "repo": "CodeNeuron",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rnn-autocomplete",
+              "description": "Neural code autocompletion with RNN (bachelor's thesis).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114543027,
+                "language": "Python",
+                "last_commit": "2019-05-19T14:10:25Z",
+                "owner": "zerogerc",
+                "repo": "rnn-autocomplete",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Machine Learning"
         },
         {
-          "node_type": "item",
-          "title": "Deep Learning Type Inference",
-          "description": "Vincent J. Hellendoorn, Christian Bird, Earl T. Barr and Miltiadis Allamanis, FSE 2018. Code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-02-12T21:47:44Z",
-            "owner": "DeepTyper",
-            "repo": "DeepTyper",
-            "stars": 50
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "go-git",
+              "description": "Highly extensible Git implementation in pure Go which is friendly to data mining.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 44739044,
+                "language": "Go",
+                "last_commit": "2022-04-10T11:14:17Z",
+                "owner": "src-d",
+                "repo": "go-git",
+                "stars": 4874
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kmcuda",
+              "description": "k-means on CUDA to cluster and to search for nearest neighbors in dense space.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61807798,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-10-11T16:58:55Z",
+                "owner": "src-d",
+                "repo": "kmcuda",
+                "stars": 839
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wmd-relax",
+              "description": "Python package which finds nearest neighbors at Word Mover's Distance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85208106,
+                "language": "Python",
+                "last_commit": "2023-08-17T14:53:09Z",
+                "owner": "src-d",
+                "repo": "wmd-relax",
+                "stars": 457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "engine",
+              "description": "Scalable and distributed data retrieval pipeline for source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189392357,
+                "language": "Go",
+                "last_commit": "2019-11-07T21:16:53Z",
+                "owner": "src-d",
+                "repo": "sourced-ce",
+                "stars": 194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "minhashcuda",
+              "description": "Weighted MinHash implementation on CUDA to efficiently find duplicates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71914464,
+                "language": "C++",
+                "last_commit": "2023-11-29T18:46:03Z",
+                "owner": "src-d",
+                "repo": "minhashcuda",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "source{d} models",
+              "description": "Machine Learning models for MLonCode trained using the source{d} stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107106225,
+                "language": null,
+                "last_commit": "2019-10-30T11:07:16Z",
+                "owner": "src-d",
+                "repo": "models",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CodeSearchNet",
+              "description": "collection of datasets and benchmarks for code retrieval using natural language. Contains 2M pairs of (, ).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 173155670,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-01-31T09:25:07Z",
+                "owner": "github",
+                "repo": "CodeSearchNet",
+                "stars": 2442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NL2Bash",
+              "description": "This dataset contains a set of ~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the paper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50688806,
+                "language": "NewLisp",
+                "last_commit": "2026-07-31T21:59:08Z",
+                "owner": "TellinaTool",
+                "repo": "nl2bash",
+                "stars": 496
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Public Git Archive",
+              "description": "6 TB of Git repositories from GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118920552,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-11-27T16:55:22Z",
+                "owner": "src-d",
+                "repo": "datasets",
+                "stars": 349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "card2code",
+              "description": "This dataset contains the language to code datasets described in the paper Latent Predictor Networks for Code Generation.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 73382282,
+                "language": null,
+                "last_commit": "2017-12-08T16:58:31Z",
+                "owner": "google-deepmind",
+                "repo": "card2code",
+                "stars": 246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StackOverflow Question-Code Dataset",
+              "description": "~148K Python and ~120K SQL question-code pairs mined from StackOverflow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116522075,
+                "language": "Python",
+                "last_commit": "2021-08-28T14:37:21Z",
+                "owner": "LittleYUYU",
+                "repo": "StackOverflow-Question-Code-Dataset",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neural-Code-Search-Evaluation-Dataset",
+              "description": "dataset contains links to 4.7M methods from 24k+ repositories with 287 StackOverflow questions and code snippet answers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 209875378,
+                "language": "Python",
+                "last_commit": "2024-05-03T19:48:53Z",
+                "owner": "facebookresearch",
+                "repo": "Neural-Code-Search-Evaluation-Dataset",
+                "stars": 125
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets"
         }
       ],
-      "title": "Source Code Analysis and Language modeling"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Software"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MindsDB",
-          "description": "MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2026-08-13T21:48:08Z",
-            "owner": "mindsdb",
-            "repo": "mindshub",
-            "stars": 39603
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hercules",
-          "description": "Git repository mining framework with batteries on top of go-git.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-02-07T08:25:31Z",
-            "owner": "src-d",
-            "repo": "hercules",
-            "stars": 2804
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Differentiable Neural Computer (DNC)",
-          "description": "TensorFlow implementation of the Differentiable Neural Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-23T08:02:12Z",
-            "owner": "google-deepmind",
-            "repo": "dnc",
-            "stars": 2531
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "enry",
-          "description": "Insanely fast file based programming language detector.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-11-14T12:23:25Z",
-            "owner": "src-d",
-            "repo": "enry",
-            "stars": 455
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepCS",
-          "description": "Keras and Pytorch implementations of DeepCS (Deep Code Search).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-05-26T14:32:51Z",
-            "owner": "guxd",
-            "repo": "deep-code-search",
-            "stars": 285
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Summarizing Source Code using a Neural Attention Model",
-          "description": "CODE-NN, uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Torch over C#/SQL",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-23T21:04:53Z",
-            "owner": "sriniiyer",
-            "repo": "codenn",
-            "stars": 238
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepBugs",
-          "description": "Framework for learning bug detectors from an existing code corpus.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-07T14:46:09Z",
-            "owner": "michaelpradel",
-            "repo": "DeepBugs",
-            "stars": 153
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sourced.ml",
-          "description": "Abstracts feature extraction from source code syntax trees and working with ML models.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-05-22T09:56:11Z",
-            "owner": "src-d",
-            "repo": "ml",
-            "stars": 141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Extreme Source Code Summarization",
-          "description": "Convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2016-07-19T09:27:39Z",
-            "owner": "mast-group",
-            "repo": "convolutional-attention",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepSim",
-          "description": "a deep learning-based approach to measure code functional similarity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-06-11T10:27:42Z",
-            "owner": "parasol-aser",
-            "repo": "deepsim",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gemini",
-          "description": "Source code deduplication as scale, production.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2019-06-06T12:53:22Z",
-            "owner": "src-d",
-            "repo": "gemini",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Naturalize",
-          "description": "Language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2015-09-05T21:53:02Z",
-            "owner": "mast-group",
-            "repo": "naturalize",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Probabilistic API Miner",
-          "description": "Near parameter-free probabilistic algorithm for mining the most interesting API patterns from a list of API call sequences.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2018-01-08T11:32:04Z",
-            "owner": "mast-group",
-            "repo": "api-mining",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "apollo",
-          "description": "Source code deduplication as scale, research.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-05T11:20:40Z",
-            "owner": "src-d",
-            "repo": "apollo",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vecino",
-          "description": "Finds similar Git repositories.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-08-20T09:52:52Z",
-            "owner": "src-d",
-            "repo": "vecino",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Interesting Sequence Miner",
-          "description": "Novel algorithm that mines the most interesting sequences under a probabilistic model. It is able to efficiently infer interesting sequences directly from the database.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2018-04-25T10:41:16Z",
-            "owner": "mast-group",
-            "repo": "sequence-mining",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TASSAL",
-          "description": "Tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2016-07-30T10:47:38Z",
-            "owner": "mast-group",
-            "repo": "tassal",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sensibility",
-          "description": "Uses LSTMs to detect and correct syntax errors in Java source code.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-11-14T09:45:57Z",
-            "owner": "naturalness",
-            "repo": "sensibility",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Code Neuron",
-          "description": "Recurrent neural network to detect code blocks in natural language text.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-12-10T18:11:24Z",
-            "owner": "vmarkovtsev",
-            "repo": "CodeNeuron",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rnn-autocomplete",
-          "description": "Neural code autocompletion with RNN (bachelor's thesis).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-05-19T14:10:25Z",
-            "owner": "zerogerc",
-            "repo": "rnn-autocomplete",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Machine Learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "go-git",
-          "description": "Highly extensible Git implementation in pure Go which is friendly to data mining.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2022-04-10T11:14:17Z",
-            "owner": "src-d",
-            "repo": "go-git",
-            "stars": 4874
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kmcuda",
-          "description": "k-means on CUDA to cluster and to search for nearest neighbors in dense space.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-10-11T16:58:55Z",
-            "owner": "src-d",
-            "repo": "kmcuda",
-            "stars": 839
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wmd-relax",
-          "description": "Python package which finds nearest neighbors at Word Mover's Distance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-17T14:53:09Z",
-            "owner": "src-d",
-            "repo": "wmd-relax",
-            "stars": 457
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "engine",
-          "description": "Scalable and distributed data retrieval pipeline for source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2019-11-07T21:16:53Z",
-            "owner": "src-d",
-            "repo": "sourced-ce",
-            "stars": 194
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "minhashcuda",
-          "description": "Weighted MinHash implementation on CUDA to efficiently find duplicates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-11-29T18:46:03Z",
-            "owner": "src-d",
-            "repo": "minhashcuda",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "source{d} models",
-          "description": "Machine Learning models for MLonCode trained using the source{d} stack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-10-30T11:07:16Z",
-            "owner": "src-d",
-            "repo": "models",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "Utilities"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CodeSearchNet",
-          "description": "collection of datasets and benchmarks for code retrieval using natural language. Contains 2M pairs of (, ).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-01-31T09:25:07Z",
-            "owner": "github",
-            "repo": "CodeSearchNet",
-            "stars": 2442
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NL2Bash",
-          "description": "This dataset contains a set of ~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the paper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "NewLisp",
-            "last_commit": "2026-07-31T21:59:08Z",
-            "owner": "TellinaTool",
-            "repo": "nl2bash",
-            "stars": 496
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Public Git Archive",
-          "description": "6 TB of Git repositories from GitHub.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2019-11-27T16:55:22Z",
-            "owner": "src-d",
-            "repo": "datasets",
-            "stars": 349
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "card2code",
-          "description": "This dataset contains the language to code datasets described in the paper Latent Predictor Networks for Code Generation.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2017-12-08T16:58:31Z",
-            "owner": "google-deepmind",
-            "repo": "card2code",
-            "stars": 246
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StackOverflow Question-Code Dataset",
-          "description": "~148K Python and ~120K SQL question-code pairs mined from StackOverflow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-28T14:37:21Z",
-            "owner": "LittleYUYU",
-            "repo": "StackOverflow-Question-Code-Dataset",
-            "stars": 170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neural-Code-Search-Evaluation-Dataset",
-          "description": "dataset contains links to 4.7M methods from 24k+ repositories with 287 StackOverflow questions and code snippet answers.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-05-03T19:48:53Z",
-            "owner": "facebookresearch",
-            "repo": "Neural-Code-Search-Evaluation-Dataset",
-            "stars": 125
-          }
-        }
-      ],
-      "title": "Datasets"
-    },
-    {
-      "description": "See CONTRIBUTING.md. TL;DR: create a pull request which is signed off.",
-      "items": [],
-      "title": "Contributions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:01:44.933Z",
+    "last_updated": "2026-08-19T12:38:38.970Z",
     "original_repository": "src-d/awesome-machine-learning-on-source-code",
+    "original_repository_id": 94894966,
     "original_repository_sha": "ffe963691748e6c085df824598eab2d3771ad4c8",
     "enhanced_repository": "enhansome/enhansome-machine-learning-on-source-code",
     "enhanced_repository_description": null,
