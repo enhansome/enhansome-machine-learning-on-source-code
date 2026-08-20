@@ -339,8 +339,8 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Machine Learning
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,609 | 🐛 2 | 🌐 Makefile | 📅 2026-08-13 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
-* [hercules](https://github.com/src-d/hercules) ⭐ 2,805 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,617 | 🐛 3 | 🌐 Makefile | 📅 2026-08-20 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
+* [hercules](https://github.com/src-d/hercules) ⭐ 2,806 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,531 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
 * [enry](https://github.com/src-d/enry) ⭐ 455 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
 * [DeepCS](https://github.com/guxd/deep-code-search) ⭐ 285 | 🐛 25 | 🌐 Python | 📅 2022-05-26 - Keras and Pytorch implementations of DeepCS (Deep Code Search).
@@ -376,7 +376,7 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Datasets
 
 * [CodeSearchNet](https://github.com/github/CodeSearchNet) ⚠️ Archived -  collection of datasets and benchmarks for code retrieval using natural language. Contains 2M pairs of (`comment`, `code`).
-* [NL2Bash](https://github.com/TellinaTool/nl2bash) ⭐ 496 | 🐛 12 | 🌐 NewLisp | 📅 2026-07-31 - This dataset contains a set of \~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
+* [NL2Bash](https://github.com/TellinaTool/nl2bash) ⭐ 497 | 🐛 12 | 🌐 NewLisp | 📅 2026-07-31 - This dataset contains a set of \~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
 * [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) ⭐ 349 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2019-11-27 - 6 TB of Git repositories from GitHub.
 * [card2code](https://github.com/deepmind/card2code) ⚠️ Archived - This dataset contains the language to code datasets described in the paper [Latent Predictor Networks for Code Generation](#card2code).
 * [StackOverflow Question-Code Dataset](https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset) ⭐ 170 | 🐛 1 | 🌐 Python | 📅 2021-08-28 - \~148K Python and \~120K SQL question-code pairs mined from StackOverflow.
@@ -399,11 +399,11 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,075 | 🐛 26 | 🌐 Python | 📅 2026-08-11.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,087 | 🐛 27 | 🌐 Python | 📅 2026-08-11.
 
 ## Contributions
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,623 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,623 | 🐛 8 | 📅 2020-12-03.
+See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,625 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,625 | 🐛 8 | 📅 2020-12-03.
 
 ## License
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
