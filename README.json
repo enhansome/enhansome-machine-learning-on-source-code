@@ -57,10 +57,10 @@
                 "archived": false,
                 "id": 143328315,
                 "language": "Makefile",
-                "last_commit": "2026-08-20T00:16:40Z",
+                "last_commit": "2026-08-21T03:24:05Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39617
+                "stars": 39623
               }
             },
             {
@@ -75,7 +75,7 @@
                 "last_commit": "2023-02-07T08:25:31Z",
                 "owner": "src-d",
                 "repo": "hercules",
-                "stars": 2806
+                "stars": 2805
               }
             },
             {
@@ -552,7 +552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:05:09.064Z",
+    "last_updated": "2026-08-21T19:01:40.458Z",
     "original_repository": "src-d/awesome-machine-learning-on-source-code",
     "original_repository_id": 94894966,
     "original_repository_sha": "ffe963691748e6c085df824598eab2d3771ad4c8",
