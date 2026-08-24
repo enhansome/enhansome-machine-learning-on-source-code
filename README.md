@@ -399,11 +399,11 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,141 | 🐛 26 | 🌐 Python | 📅 2026-08-21.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,143 | 🐛 27 | 🌐 Python | 📅 2026-08-21.
 
 ## Contributions
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,634 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,634 | 🐛 8 | 📅 2020-12-03.
+See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,635 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,635 | 🐛 8 | 📅 2020-12-03.
 
 ## License
 
