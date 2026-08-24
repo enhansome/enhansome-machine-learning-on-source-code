@@ -39,6 +39,94 @@
           "description": null,
           "node_type": "group",
           "title": "Source Code Analysis and Language modeling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Word Embeddings for the Software Engineering Domain",
+              "description": "Vasiliki Efstathiou, Christos Chatzilenas, Diomidis Spinellis, MSR 2018.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125493444,
+                "language": null,
+                "last_commit": "2018-04-06T08:52:56Z",
+                "owner": "vefstathiou",
+                "repo": "SO_word2vec",
+                "stars": 45
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embeddings in Software Engineering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shaping Program Repair Space with Existing Patches and Similar Code",
+              "description": "Jiajun Jiang, Yingfei Xiong, Hongyu Zhang, Qing Gao, Xiangqun Chen, 2018. (code).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92924762,
+                "language": "Java",
+                "last_commit": "2023-04-10T03:02:38Z",
+                "owner": "xgdsmileboy",
+                "repo": "SimFix",
+                "stars": 206
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Program Repair and Bug Detection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Summarizing Source Code using a Neural Attention Model",
+              "description": "Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Luke Zettlemoyer, ACL 2016.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60563775,
+                "language": "Python",
+                "last_commit": "2023-01-23T21:04:53Z",
+                "owner": "sriniiyer",
+                "repo": "codenn",
+                "stars": 238
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code Summarization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ClDiff: Generating Concise Linked Code Differences",
+              "description": "Kaifeng Huang, Bihuan Chen, Xin Peng, Daihong Zhou, Ying Wang, Yang Liu, Wenyun Zhao, ASE 2018. Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107939913,
+                "language": "Java",
+                "last_commit": "2022-06-04T01:43:29Z",
+                "owner": "FudanSELab",
+                "repo": "CLDIFF",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AST Differencing"
         }
       ],
       "title": "Papers"
@@ -60,7 +148,7 @@
                 "last_commit": "2026-08-21T23:50:38Z",
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39638
+                "stars": 39640
               }
             },
             {
@@ -552,7 +640,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:52:17.327Z",
+    "last_updated": "2026-08-24T13:53:27.009Z",
     "original_repository": "src-d/awesome-machine-learning-on-source-code",
     "original_repository_id": 94894966,
     "original_repository_sha": "ffe963691748e6c085df824598eab2d3771ad4c8",

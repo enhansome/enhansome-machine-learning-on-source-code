@@ -154,10 +154,10 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Embeddings in Software Engineering
 
+* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Word Embeddings for the Software Engineering Domain](https://github.com/vefstathiou/SO_word2vec/blob/master/MSR18-w2v.pdf) ⭐ 45 | 🐛 3 | 📅 2018-04-06 - Vasiliki Efstathiou, Christos Chatzilenas, Diomidis Spinellis, MSR 2018.
 * <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [A Literature Study of Embeddings on Source Code](https://arxiv.org/abs/1904.03061) - Zimin Chen and Martin Monperrus, 2019.
 * <img src="badges/3-pages-gray.svg" alt="3-pages" align="top"> [AST-Based Deep Learning for Detecting Malicious PowerShell](https://arxiv.org/pdf/1810.09230.pdf) - Gili Rusak, Abdullah Al-Dujaili, Una-May O'Reilly, 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep Code Search](https://dl.acm.org/citation.cfm?id=3180167) - Xiaodong Gu, Hongyu Zhang, Sunghun Kim, ICSE 2018.
-* <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Word Embeddings for the Software Engineering Domain](https://github.com/vefstathiou/SO_word2vec/blob/master/MSR18-w2v.pdf) ⭐ 45 | 🐛 3 | 📅 2018-04-06 - Vasiliki Efstathiou, Christos Chatzilenas, Diomidis Spinellis, MSR 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align=top> [
   Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces](https://arxiv.org/abs/1803.06686) - Jordan Henkel, Shuvendu K. Lahiri, Ben Liblit, Thomas Reps, FSE 2018.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Document Distance Estimation via Code Graph Embedding](https://www.researchgate.net/publication/320074701_Document_Distance_Estimation_via_Code_Graph_Embedding) - Zeqi Lin, Junfeng Zhao, Yanzhen Zou, Bing Xie, Internetware 2017.
@@ -184,6 +184,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Program Repair and Bug Detection
 
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Shaping Program Repair Space with Existing Patches and Similar Code](https://xiongyingfei.github.io/papers/ISSTA18a.pdf) - Jiajun Jiang, Yingfei Xiong, Hongyu Zhang, Qing Gao, Xiangqun Chen, 2018. ([code](https://github.com/xgdsmileboy/SimFix) ⭐ 206 | 🐛 7 | 🌐 Java | 📅 2023-04-10).
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [SampleFix: Learning to Correct Programs by Sampling Diverse Fixes](https://arxiv.org/abs/1906.10502) - Hossein Hajipour, Apratim Bhattacharya, Mario Fritz, 2019.
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Maximal Divergence Sequential Autoencoder for Binary Software Vulnerability Detection](https://openreview.net/forum?id=ByloIiCqYQ) - Tue Le, Tuan Nguyen, Trung Le, Dinh Phung, Paul Montague, Olivier De Vel, Lizhen Qu, ICLR 2019.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Neural Program Repair by Jointly Learning to Localize and Repair](https://openreview.net/forum?id=ByloJ20qtm) - Marko Vasic, Aditya Kanade, Petros Maniatis, David Bieber, Rishabh Singh, ICLR 2019.
@@ -194,7 +195,6 @@ A curated list of awesome research papers, datasets and software projects devote
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Learning How to Mutate Source Code from Bug-Fixes](https://arxiv.org/abs/1812.10772) - Michele Tufano, Cody Watson, Gabriele Bavota, Massimiliano Di Penta, Martin White, Denys Poshyvanyk, 2018.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [A deep tree-based model for software defect prediction](https://arxiv.org/abs/1802.00921) - HK Dam, T Pham, SW Ng, [T Tran](https://truyentran.github.io), J Grundy, A Ghose, T Kim, CJ Kim, 2018.
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [Automated Vulnerability Detection in Source Code Using Deep Representation Learning](https://arxiv.org/abs/1807.04320) - Rebecca L. Russell, Louis Kim, Lei H. Hamilton, Tomo Lazovich, Jacob A. Harer, Onur Ozdemir, Paul M. Ellingwood, Marc W. McConley, 2018.
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Shaping Program Repair Space with Existing Patches and Similar Code](https://xiongyingfei.github.io/papers/ISSTA18a.pdf) - Jiajun Jiang, Yingfei Xiong, Hongyu Zhang, Qing Gao, Xiangqun Chen, 2018. ([code](https://github.com/xgdsmileboy/SimFix) ⭐ 206 | 🐛 7 | 🌐 Java | 📅 2023-04-10).
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Learning to Repair Software Vulnerabilities with Generative Adversarial Networks](https://arxiv.org/abs/1805.07475) - Jacob A. Harer, Onur Ozdemir, Tomo Lazovich, Christopher P. Reale, Rebecca L. Russell, Louis Y. Kim, Peter Chin, 2018.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Dynamic Neural Program Embedding for Program Repair](https://arxiv.org/abs/1711.07163v2) - Ke Wang, Rishabh Singh, Zhendong Su, ICLR 2018.
 * <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Estimating defectiveness of source code: A predictive model using GitHub content](https://arxiv.org/abs/1803.07764) - Ritu Kapur, Balwinder Sodhi, 2018
@@ -249,13 +249,13 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Code Summarization
 
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf) ⭐ 238 | 🐛 4 | 🌐 Python | 📅 2023-01-23 - Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Luke Zettlemoyer, ACL 2016.
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [Summarizing Source Code with Transferred API Knowledge](https://xin-xia.github.io/publication/ijcai18.pdf) - Xing Hu, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin, IJCAI 2018.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Deep Code Comment Generation](https://xin-xia.github.io/publication/icpc182.pdf) - Xing Hu, Ge Li, Xin Xia, David Lo, Zhi Jin, ICPC 2018.
 * <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [A Neural Framework for Retrieval and Summarization of Source Code](https://dl.acm.org/citation.cfm?id=3240471) - Qingying Chen, Minghui Zhou, ASE 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Improving Automatic Source Code Summarization via Deep Reinforcement Learning](https://arxiv.org/abs/1811.07234) - Yao Wan, Zhou Zhao, Min Yang, Guandong Xu, Haochao Ying, Jian Wu and Philip S. Yu, ASE 2018.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [A Convolutional Attention Network for Extreme Summarization of Source Code](https://arxiv.org/abs/1602.03001) - Miltiadis Allamanis, Hao Peng, Charles Sutton, ICML 2016.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [TASSAL: Autofolding for Source Code Summarization](http://homepages.inf.ed.ac.uk/csutton/publications/icse2016-demo.pdf) - Jaroslav Fowkes, Pankajan Chanthirasegaran, Razvan Ranca, Miltiadis Allamanis, Mirella Lapata, Charles Sutton, ICSE 2016.
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf) ⭐ 238 | 🐛 4 | 🌐 Python | 📅 2023-01-23 - Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Luke Zettlemoyer, ACL 2016.
 * <img src="badges/13-pages-gray.svg" alt="13-pages" align="top"> [Automatic Generation of Pull Request Descriptions](https://arxiv.org/abs/1909.06987) - Zhongxin Liu, Xin Xia, Christoph Treude, David Lo, Shanping Li, ASE 2019.
 
 #### Clone Detection
@@ -339,7 +339,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Machine Learning
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,638 | 🐛 2 | 🌐 Makefile | 📅 2026-08-21 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,640 | 🐛 2 | 🌐 Makefile | 📅 2026-08-21 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
 * [hercules](https://github.com/src-d/hercules) ⭐ 2,806 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,531 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
 * [enry](https://github.com/src-d/enry) ⭐ 455 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
@@ -399,11 +399,11 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,129 | 🐛 26 | 🌐 Python | 📅 2026-08-21.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,141 | 🐛 26 | 🌐 Python | 📅 2026-08-21.
 
 ## Contributions
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,633 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,633 | 🐛 8 | 📅 2020-12-03.
+See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,634 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,634 | 🐛 8 | 📅 2020-12-03.
 
 ## License
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
