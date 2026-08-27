@@ -567,7 +567,7 @@
                 "last_commit": "2026-07-31T21:59:08Z",
                 "owner": "TellinaTool",
                 "repo": "nl2bash",
-                "stars": 497
+                "stars": 498
               }
             },
             {
@@ -640,9 +640,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:11:56.800Z",
-    "original_repository": "src-d/awesome-machine-learning-on-source-code",
-    "original_repository_id": 94894966,
+    "last_updated": "2026-08-27T11:51:17.704Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 94894966,
+      "language": null,
+      "last_commit": "2020-12-03T17:58:42Z",
+      "owner": "src-d",
+      "repo": "awesome-machine-learning-on-source-code",
+      "stars": 6634
+    },
     "original_repository_sha": "ffe963691748e6c085df824598eab2d3771ad4c8",
     "enhanced_repository": "enhansome/enhansome-machine-learning-on-source-code",
     "enhanced_repository_description": null,
