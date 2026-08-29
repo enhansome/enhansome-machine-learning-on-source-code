@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient tree-based convolutional neural networks in TensorFlow",
+                "homepage": null,
                 "id": 88279884,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-09-09T15:44:26Z",
+                "open_issues": 12,
                 "owner": "crestonbunch",
                 "repo": "tbcnn",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "classifier",
+                  "convolutional-neural-networks",
+                  "tbcnn",
+                  "tensorflow",
+                  "tree"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -28,12 +39,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 132805965,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-02-12T21:47:44Z",
+                "open_issues": 0,
                 "owner": "DeepTyper",
                 "repo": "DeepTyper",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             }
@@ -51,12 +67,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A word2vec model trained over Stack Overflow",
+                "homepage": null,
                 "id": 125493444,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-04-06T08:52:56Z",
+                "open_issues": 3,
                 "owner": "vefstathiou",
                 "repo": "SO_word2vec",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             }
@@ -74,12 +95,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically fix programs by leveraging existing patches from other projects and similar code snippets from the faulty project.",
+                "homepage": null,
                 "id": 92924762,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-04-10T03:02:38Z",
+                "open_issues": 7,
                 "owner": "xgdsmileboy",
                 "repo": "SimFix",
-                "stars": 206
+                "stars": 206,
+                "topics": [
+                  "automatic",
+                  "debugging-tool"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             }
@@ -97,12 +126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Summarizing Source Code using a Neural Attention Model - CODENN",
+                "homepage": null,
                 "id": 60563775,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-23T21:04:53Z",
+                "open_issues": 4,
                 "owner": "sriniiyer",
                 "repo": "codenn",
-                "stars": 237
+                "stars": 237,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             }
@@ -120,12 +154,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 107939913,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-06-04T01:43:29Z",
+                "open_issues": 1,
                 "owner": "FudanSELab",
                 "repo": "CLDIFF",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "library"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             }
@@ -149,12 +190,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The unified workspace where open-source models get things done for you.",
+                "homepage": "https://mindshub.ai",
                 "id": 143328315,
                 "language": "Makefile",
+                "license": "MIT",
                 "last_commit": "2026-08-21T23:50:38Z",
+                "open_issues": 2,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39656
+                "stars": 39656,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "anton",
+                  "artificial-inteligence",
+                  "claude",
+                  "claude-cowork",
+                  "codex",
+                  "cowork",
+                  "deepseek",
+                  "glm",
+                  "hermes",
+                  "hermes-agent",
+                  "kimi",
+                  "mcp",
+                  "mindsdb"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -165,12 +227,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gaining advanced insights from Git repository history.",
+                "homepage": null,
                 "id": 76279648,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-07T08:25:31Z",
+                "open_issues": 50,
                 "owner": "src-d",
                 "repo": "hercules",
-                "stars": 2807
+                "stars": 2807,
+                "topics": [
+                  "burndown",
+                  "git",
+                  "git-analysis",
+                  "machine-learning",
+                  "mining-software-repositories",
+                  "mloncode",
+                  "tensorboard-visualizations",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -181,12 +257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TensorFlow implementation of the Differentiable Neural Computer.",
+                "homepage": null,
                 "id": 86463017,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-23T08:02:12Z",
+                "open_issues": 9,
                 "owner": "google-deepmind",
                 "repo": "dnc",
-                "stars": 2531
+                "stars": 2531,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -197,12 +278,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A faster file programming language detector",
+                "homepage": "https://blog.sourced.tech/post/enry/",
                 "id": 63264762,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-14T12:23:25Z",
+                "open_issues": 22,
                 "owner": "src-d",
                 "repo": "enry",
-                "stars": 455
+                "stars": 455,
+                "topics": [
+                  "cli",
+                  "golang",
+                  "java",
+                  "language-detection",
+                  "linguist"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -213,12 +305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepCS: Deep Code Search",
+                "homepage": null,
                 "id": 121241775,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-26T14:32:51Z",
+                "open_issues": 25,
                 "owner": "guxd",
                 "repo": "deep-code-search",
-                "stars": 285
+                "stars": 285,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -229,12 +326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Summarizing Source Code using a Neural Attention Model - CODENN",
+                "homepage": null,
                 "id": 60563775,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-23T21:04:53Z",
+                "open_issues": 4,
                 "owner": "sriniiyer",
                 "repo": "codenn",
-                "stars": 237
+                "stars": 237,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -245,12 +347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepBugs is a framework for learning bug detectors from an existing code corpus.",
+                "homepage": null,
                 "id": 111794887,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-07T14:46:09Z",
+                "open_issues": 0,
                 "owner": "michaelpradel",
                 "repo": "DeepBugs",
-                "stars": 153
+                "stars": 153,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -261,12 +368,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "sourced.ml is a library and command line tools to build and apply machine learning models on top of Universal Abstract Syntax Trees",
+                "homepage": null,
                 "id": 94111019,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-05-22T09:56:11Z",
+                "open_issues": 26,
                 "owner": "src-d",
                 "repo": "ml",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "ast",
+                  "machine-learning",
+                  "mloncode",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -277,12 +394,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Repository for the code of the \"A Convolutional Attention Network for Extreme Summarization of Source Code\" paper",
+                "homepage": null,
                 "id": 58241731,
                 "language": "HTML",
+                "license": "BSD-3-Clause",
                 "last_commit": "2016-07-19T09:27:39Z",
+                "open_issues": 0,
                 "owner": "mast-group",
                 "repo": "convolutional-attention",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "convolutional-attention-network",
+                  "machine-learning",
+                  "ml4code"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -293,12 +419,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning code semantic similarity",
+                "homepage": null,
                 "id": 142032964,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-06-11T10:27:42Z",
+                "open_issues": 8,
                 "owner": "parasol-aser",
                 "repo": "deepsim",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -309,12 +440,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced similarity and duplicate source code at scale.",
+                "homepage": null,
                 "id": 112457042,
                 "language": "Scala",
+                "license": "GPL-3.0",
                 "last_commit": "2019-06-06T12:53:22Z",
+                "open_issues": 30,
                 "owner": "src-d",
                 "repo": "gemini",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "duplicate-detection",
+                  "duplicates",
+                  "hash",
+                  "source-code-analysis",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -325,12 +467,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Source code for the Naturalize project",
+                "homepage": "http://groups.inf.ed.ac.uk/naturalize/",
                 "id": 41926068,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2015-09-05T21:53:02Z",
+                "open_issues": 1,
                 "owner": "mast-group",
                 "repo": "naturalize",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -341,12 +488,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Probabilistic API Mining",
+                "homepage": null,
                 "id": 38424145,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2018-01-08T11:32:04Z",
+                "open_issues": 2,
                 "owner": "mast-group",
                 "repo": "api-mining",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "data-mining",
+                  "ml4code"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -357,12 +512,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced similarity and duplicate source code proof of concept for our research efforts.",
+                "homepage": null,
                 "id": 108382486,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-09-05T11:20:40Z",
+                "open_issues": 12,
                 "owner": "src-d",
                 "repo": "apollo",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "duplicate-detection",
+                  "duplicates",
+                  "python",
+                  "similarity",
+                  "similarity-search",
+                  "source-code"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -373,12 +540,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vecino is a command line application to discover Git repositories which are similar to the one that the user provides.",
+                "homepage": null,
                 "id": 94335054,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-08-20T09:52:52Z",
+                "open_issues": 2,
                 "owner": "src-d",
                 "repo": "vecino",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "babelfish",
+                  "git"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -389,12 +564,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Probabilistic Sequence Mining",
+                "homepage": null,
                 "id": 44307374,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2018-04-25T10:41:16Z",
+                "open_issues": 0,
                 "owner": "mast-group",
                 "repo": "sequence-mining",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "data-mining",
+                  "exploratory-data-analysis"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -405,12 +588,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tree-based Autofolding Software Summarization Algorithm",
+                "homepage": null,
                 "id": 28146647,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2016-07-30T10:47:38Z",
+                "open_issues": 1,
                 "owner": "mast-group",
                 "repo": "tassal",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "machine-learning",
+                  "ml4code",
+                  "topic-modeling"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -421,12 +613,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fixes Java syntax errors with LSTM neural networks! [proof-of-concept]",
+                "homepage": "https://eddieantonio.keybase.pub/santos2018syntax.pdf",
                 "id": 93442311,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-14T09:45:57Z",
+                "open_issues": 0,
                 "owner": "naturalness",
                 "repo": "sensibility",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "hacktoberfest",
+                  "java",
+                  "keras",
+                  "lstm",
+                  "ml4code",
+                  "neural-network",
+                  "syntax",
+                  "syntax-checker",
+                  "syntax-error"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -437,12 +644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recurrent neural network to split code snippets from text.",
+                "homepage": null,
                 "id": 123677637,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-12-10T18:11:24Z",
+                "open_issues": 0,
                 "owner": "vmarkovtsev",
                 "repo": "CodeNeuron",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -453,12 +665,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bachelor's grad work on code autocompletion with rnn",
+                "homepage": null,
                 "id": 114543027,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-05-19T14:10:25Z",
+                "open_issues": 0,
                 "owner": "zerogerc",
                 "repo": "rnn-autocomplete",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             }
@@ -476,12 +693,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Project has been moved to: https://github.com/go-git/go-git",
+                "homepage": "https://github.com/go-git/go-git",
                 "id": 44739044,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-10T11:14:17Z",
+                "open_issues": 226,
                 "owner": "src-d",
                 "repo": "go-git",
-                "stars": 4873
+                "stars": 4873,
+                "topics": [
+                  "git",
+                  "git-client",
+                  "git-server",
+                  "go-git",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -492,12 +720,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large scale K-means and K-nn implementation on NVIDIA GPU / CUDA",
+                "homepage": null,
                 "id": 61807798,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2022-10-11T16:58:55Z",
+                "open_issues": 48,
                 "owner": "src-d",
                 "repo": "kmcuda",
-                "stars": 839
+                "stars": 839,
+                "topics": [
+                  "afk-mc2",
+                  "cuda",
+                  "hacktoberfest",
+                  "kmeans",
+                  "knn-search",
+                  "machine-learning",
+                  "python",
+                  "yinyang"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -508,12 +750,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Calculates Word Mover's Distance Insanely Fast",
+                "homepage": null,
                 "id": 85208106,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-17T14:53:09Z",
+                "open_issues": 19,
                 "owner": "src-d",
                 "repo": "wmd-relax",
-                "stars": 457
+                "stars": 457,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -524,12 +771,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "source{d} Community Edition (CE)",
+                "homepage": "https://docs.sourced.tech/community-edition",
                 "id": 189392357,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2019-11-07T21:16:53Z",
+                "open_issues": 21,
                 "owner": "src-d",
                 "repo": "sourced-ce",
-                "stars": 194
+                "stars": 194,
+                "topics": [
+                  "charts",
+                  "dashboards",
+                  "data-analysis",
+                  "data-mining",
+                  "data-platform",
+                  "data-visualization",
+                  "git",
+                  "github",
+                  "metrics",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -540,12 +803,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Weighted MinHash implementation on CUDA (multi-gpu).",
+                "homepage": null,
                 "id": 71914464,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-29T18:46:03Z",
+                "open_issues": 2,
                 "owner": "src-d",
                 "repo": "minhashcuda",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "cuda",
+                  "lsh",
+                  "machine-learning",
+                  "minhash"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -556,12 +829,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Machine learning models for MLonCode trained using the source{d} stack",
+                "homepage": null,
                 "id": 107106225,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-10-30T11:07:16Z",
+                "open_issues": 5,
                 "owner": "src-d",
                 "repo": "models",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "machine-learning",
+                  "mlosc",
+                  "model",
+                  "nlp",
+                  "source-code"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             }
@@ -579,12 +863,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Datasets, tools, and benchmarks for representation learning of code.",
+                "homepage": "https://arxiv.org/abs/1909.09436",
                 "id": 173155670,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-01-31T09:25:07Z",
+                "open_issues": 14,
                 "owner": "github",
                 "repo": "CodeSearchNet",
-                "stars": 2444
+                "stars": 2444,
+                "topics": [
+                  "bert",
+                  "cnn",
+                  "data",
+                  "data-science",
+                  "datasets",
+                  "deep-learning",
+                  "machine-learning",
+                  "machine-learning-on-source-code",
+                  "ml",
+                  "natural-language-processing",
+                  "neural-networks",
+                  "nlp",
+                  "nlp-machine-learning",
+                  "open-data",
+                  "programming-language-theory",
+                  "python",
+                  "representation-learning",
+                  "rnn",
+                  "self-attention",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -595,12 +905,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generating bash command from natural language https://arxiv.org/abs/1802.08979",
+                "homepage": null,
                 "id": 50688806,
                 "language": "NewLisp",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-31T21:59:08Z",
+                "open_issues": 12,
                 "owner": "TellinaTool",
                 "repo": "nl2bash",
-                "stars": 498
+                "stars": 498,
+                "topics": [
+                  "copynet",
+                  "natural-language-interface",
+                  "nl2bash",
+                  "programming-by-natural-language",
+                  "seq2seq",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -611,12 +933,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "source{d} datasets (\"big code\") for source code analysis and machine learning on source code",
+                "homepage": null,
                 "id": 118920552,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2019-11-27T16:55:22Z",
+                "open_issues": 26,
                 "owner": "src-d",
                 "repo": "datasets",
-                "stars": 349
+                "stars": 349,
+                "topics": [
+                  "dataset",
+                  "datasets",
+                  "git",
+                  "github",
+                  "machine-learning",
+                  "mlosc"
+                ]
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -627,12 +961,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects.",
+                "homepage": null,
                 "id": 73382282,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2017-12-08T16:58:31Z",
+                "open_issues": 1,
                 "owner": "google-deepmind",
                 "repo": "card2code",
-                "stars": 246
+                "stars": 246,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -643,12 +982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StaQC: a systematically mined dataset containing around 148K Python and 120K SQL domain question-code pairs, as described in \"StaQC: A Systematically Mined Question-Code Dataset from Stack Overflow\" (WWW'18)",
+                "homepage": null,
                 "id": 116522075,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-28T14:37:21Z",
+                "open_issues": 1,
                 "owner": "LittleYUYU",
                 "repo": "StackOverflow-Question-Code-Dataset",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             },
@@ -659,12 +1003,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "evaluation dataset consisting of natural language query and code snippet pairs",
+                "homepage": null,
                 "id": 209875378,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-03T19:48:53Z",
+                "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "Neural-Code-Search-Evaluation-Dataset",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
             }
@@ -678,15 +1027,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:47:30.201Z",
+    "last_updated": "2026-08-29T04:17:13.485Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
+      "homepage": null,
       "id": 94894966,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2020-12-03T17:58:42Z",
+      "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6634
+      "stars": 6634,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "machine-learning",
+        "machine-learning-on-source-code"
+      ]
     },
     "original_repository_sha": "ffe963691748e6c085df824598eab2d3771ad4c8",
     "enhanced_repository": "enhansome/enhansome-machine-learning-on-source-code",
