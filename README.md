@@ -3,7 +3,7 @@
 ![Awesome Machine Learning On Source Code](img/awesome-machine-learning-artwork.png)
 
 **Notice: This repository is no longer actively maintained, and no further updates will be done, nor issues/PRs will be answered or attended.**
-An alternative actively maintained can be found at [ml4code.github.io](https://ml4code.github.io/papers.html) [repository](https://github.com/ml4code/ml4code.github.io) ⭐ 296 | 🐛 4 | 🌐 CSS | 📅 2025-02-07.
+An alternative actively maintained can be found at [ml4code.github.io](https://ml4code.github.io/papers.html) [repository](https://github.com/ml4code/ml4code.github.io) ⭐ 295 | 🐛 4 | 🌐 CSS | 📅 2025-02-07.
 
 A curated list of awesome research papers, datasets and software projects devoted to machine learning *and* source code. [#MLonCode](https://twitter.com/hashtag/MLonCode)
 
@@ -249,7 +249,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Code Summarization
 
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf) ⭐ 238 | 🐛 4 | 🌐 Python | 📅 2023-01-23 - Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Luke Zettlemoyer, ACL 2016.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf) ⭐ 237 | 🐛 4 | 🌐 Python | 📅 2023-01-23 - Srinivasan Iyer, Ioannis Konstas, Alvin Cheung, Luke Zettlemoyer, ACL 2016.
 * <img src="badges/7-pages-gray.svg" alt="7-pages" align="top"> [Summarizing Source Code with Transferred API Knowledge](https://xin-xia.github.io/publication/ijcai18.pdf) - Xing Hu, Ge Li, Xin Xia, David Lo, Shuai Lu, Zhi Jin, IJCAI 2018.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Deep Code Comment Generation](https://xin-xia.github.io/publication/icpc182.pdf) - Xing Hu, Ge Li, Xin Xia, David Lo, Zhi Jin, ICPC 2018.
 * <img src="badges/6-pages-gray.svg" alt="6-pages" align="top"> [A Neural Framework for Retrieval and Summarization of Source Code](https://dl.acm.org/citation.cfm?id=3240471) - Qingying Chen, Minghui Zhou, ASE 2018.
@@ -339,12 +339,12 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Machine Learning
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,652 | 🐛 2 | 🌐 Makefile | 📅 2026-08-21 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
-* [hercules](https://github.com/src-d/hercules) ⭐ 2,806 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,656 | 🐛 2 | 🌐 Makefile | 📅 2026-08-21 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
+* [hercules](https://github.com/src-d/hercules) ⭐ 2,807 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,531 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
 * [enry](https://github.com/src-d/enry) ⭐ 455 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
 * [DeepCS](https://github.com/guxd/deep-code-search) ⭐ 285 | 🐛 25 | 🌐 Python | 📅 2022-05-26 - Keras and Pytorch implementations of DeepCS (Deep Code Search).
-* [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn) ⭐ 238 | 🐛 4 | 🌐 Python | 📅 2023-01-23 - CODE-NN, uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Torch over C#/SQL
+* [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn) ⭐ 237 | 🐛 4 | 🌐 Python | 📅 2023-01-23 - CODE-NN, uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Torch over C#/SQL
 * [DeepBugs](https://github.com/michaelpradel/DeepBugs) ⭐ 153 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-07 - Framework for learning bug detectors from an existing code corpus.
 * [sourced.ml](https://github.com/src-d/ml) ⚠️ Archived - Abstracts feature extraction from source code syntax trees and working with ML models.
 * [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention) ⚠️ Archived - Convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens.
@@ -399,7 +399,7 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,187 | 🐛 29 | 🌐 Python | 📅 2026-08-27.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,202 | 🐛 29 | 🌐 Python | 📅 2026-08-27.
 
 ## Contributions
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
