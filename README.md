@@ -339,7 +339,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Machine Learning
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,669 | 🐛 3 | 🌐 Makefile | 📅 2026-08-21 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,678 | 🐛 3 | 🌐 Makefile | 📅 2026-08-21 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
 * [hercules](https://github.com/src-d/hercules) ⭐ 2,808 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,531 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
 * [enry](https://github.com/src-d/enry) ⭐ 455 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
@@ -399,11 +399,11 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,227 | 🐛 30 | 🌐 Python | 📅 2026-08-27.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,240 | 🐛 30 | 🌐 Python | 📅 2026-08-27.
 
 ## Contributions
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,633 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,633 | 🐛 8 | 📅 2020-12-03.
+See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,634 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,634 | 🐛 8 | 📅 2020-12-03.
 
 ## License
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
