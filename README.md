@@ -339,8 +339,8 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Machine Learning
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,678 | 🐛 3 | 🌐 Makefile | 📅 2026-08-21 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
-* [hercules](https://github.com/src-d/hercules) ⭐ 2,808 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,684 | 🐛 5 | 🌐 Makefile | 📅 2026-09-02 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
+* [hercules](https://github.com/src-d/hercules) ⭐ 2,807 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,531 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
 * [enry](https://github.com/src-d/enry) ⭐ 455 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
 * [DeepCS](https://github.com/guxd/deep-code-search) ⭐ 285 | 🐛 25 | 🌐 Python | 📅 2022-05-26 - Keras and Pytorch implementations of DeepCS (Deep Code Search).
@@ -353,7 +353,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * [Naturalize](https://github.com/mast-group/naturalize) ⚠️ Archived - Language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code.
 * [Probabilistic API Miner](https://github.com/mast-group/api-mining) ⚠️ Archived - Near parameter-free probabilistic algorithm for mining the most interesting API patterns from a list of API call sequences.
 * [apollo](https://github.com/src-d/apollo) ⭐ 51 | 🐛 12 | 🌐 Python | 📅 2022-09-05 - Source code deduplication as scale, research.
-* [vecino](https://github.com/src-d/vecino) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2019-08-20 - Finds similar Git repositories.
+* [vecino](https://github.com/src-d/vecino) ⭐ 49 | 🐛 2 | 🌐 Python | 📅 2019-08-20 - Finds similar Git repositories.
 * [Interesting Sequence Miner](https://github.com/mast-group/sequence-mining) ⚠️ Archived - Novel algorithm that mines the most interesting sequences under a probabilistic model. It is able to efficiently infer interesting sequences directly from the database.
 * [TASSAL](https://github.com/mast-group/tassal) ⚠️ Archived - Tool for the automatic summarization of source code using autofolding. Autofolding automatically creates a summary of a source code file by folding non-essential code and comment blocks.
 * [Sensibility](https://github.com/naturalness/sensibility) ⚠️ Archived - Uses LSTMs to detect and correct syntax errors in Java source code.
@@ -376,7 +376,7 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Datasets
 
 * [CodeSearchNet](https://github.com/github/CodeSearchNet) ⚠️ Archived -  collection of datasets and benchmarks for code retrieval using natural language. Contains 2M pairs of (`comment`, `code`).
-* [NL2Bash](https://github.com/TellinaTool/nl2bash) ⭐ 498 | 🐛 12 | 🌐 NewLisp | 📅 2026-07-31 - This dataset contains a set of \~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
+* [NL2Bash](https://github.com/TellinaTool/nl2bash) ⭐ 498 | 🐛 12 | 🌐 NewLisp | 📅 2026-09-02 - This dataset contains a set of \~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
 * [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) ⭐ 349 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2019-11-27 - 6 TB of Git repositories from GitHub.
 * [card2code](https://github.com/deepmind/card2code) ⚠️ Archived - This dataset contains the language to code datasets described in the paper [Latent Predictor Networks for Code Generation](#card2code).
 * [StackOverflow Question-Code Dataset](https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset) ⭐ 170 | 🐛 1 | 🌐 Python | 📅 2021-08-28 - \~148K Python and \~120K SQL question-code pairs mined from StackOverflow.
@@ -399,11 +399,11 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,240 | 🐛 30 | 🌐 Python | 📅 2026-08-27.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,241 | 🐛 29 | 🌐 Python | 📅 2026-09-02.
 
 ## Contributions
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,634 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,634 | 🐛 8 | 📅 2020-12-03.
+See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,633 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,633 | 🐛 8 | 📅 2020-12-03.
 
 ## License
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

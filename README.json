@@ -195,11 +195,11 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-08-21T23:50:38Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-02T08:40:34Z",
+                "open_issues": 5,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39678,
+                "stars": 39684,
                 "topics": [
                   "agents",
                   "ai",
@@ -236,7 +236,7 @@
                 "open_issues": 50,
                 "owner": "src-d",
                 "repo": "hercules",
-                "stars": 2808,
+                "stars": 2807,
                 "topics": [
                   "burndown",
                   "git",
@@ -549,7 +549,7 @@
                 "open_issues": 2,
                 "owner": "src-d",
                 "repo": "vecino",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "babelfish",
                   "git"
@@ -910,7 +910,7 @@
                 "id": 50688806,
                 "language": "NewLisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-31T21:59:08Z",
+                "last_commit": "2026-09-02T00:46:31Z",
                 "open_issues": 12,
                 "owner": "TellinaTool",
                 "repo": "nl2bash",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:07:48.059Z",
+    "last_updated": "2026-09-02T21:08:06.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6634,
+      "stars": 6633,
       "topics": [
         "awesome",
         "awesome-list",
