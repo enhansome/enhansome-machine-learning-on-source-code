@@ -339,7 +339,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Machine Learning
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,694 | 🐛 6 | 🌐 Makefile | 📅 2026-09-04 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,697 | 🐛 6 | 🌐 Makefile | 📅 2026-09-04 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
 * [hercules](https://github.com/src-d/hercules) ⭐ 2,807 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,531 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
 * [enry](https://github.com/src-d/enry) ⭐ 455 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
@@ -376,7 +376,7 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Datasets
 
 * [CodeSearchNet](https://github.com/github/CodeSearchNet) ⚠️ Archived -  collection of datasets and benchmarks for code retrieval using natural language. Contains 2M pairs of (`comment`, `code`).
-* [NL2Bash](https://github.com/TellinaTool/nl2bash) ⭐ 501 | 🐛 12 | 🌐 NewLisp | 📅 2026-09-02 - This dataset contains a set of \~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
+* [NL2Bash](https://github.com/TellinaTool/nl2bash) ⭐ 513 | 🐛 12 | 🌐 NewLisp | 📅 2026-09-02 - This dataset contains a set of \~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
 * [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) ⭐ 349 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2019-11-27 - 6 TB of Git repositories from GitHub.
 * [card2code](https://github.com/deepmind/card2code) ⚠️ Archived - This dataset contains the language to code datasets described in the paper [Latent Predictor Networks for Code Generation](#card2code).
 * [StackOverflow Question-Code Dataset](https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset) ⭐ 170 | 🐛 1 | 🌐 Python | 📅 2021-08-28 - \~148K Python and \~120K SQL question-code pairs mined from StackOverflow.
@@ -399,7 +399,7 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,257 | 🐛 30 | 🌐 Python | 📅 2026-09-02.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,258 | 🐛 30 | 🌐 Python | 📅 2026-09-02.
 
 ## Contributions
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
