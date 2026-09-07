@@ -196,10 +196,10 @@
                 "language": "Makefile",
                 "license": "MIT",
                 "last_commit": "2026-09-04T13:26:56Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39702,
+                "stars": 39706,
                 "topics": [
                   "agents",
                   "ai",
@@ -914,7 +914,7 @@
                 "open_issues": 12,
                 "owner": "TellinaTool",
                 "repo": "nl2bash",
-                "stars": 515,
+                "stars": 517,
                 "topics": [
                   "copynet",
                   "natural-language-interface",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:29:57.643Z",
+    "last_updated": "2026-09-07T21:35:33.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
