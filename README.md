@@ -339,7 +339,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Machine Learning
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,721 | 🐛 7 | 🌐 Makefile | 📅 2026-09-09 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,720 | 🐛 6 | 🌐 Makefile | 📅 2026-09-10 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
 * [hercules](https://github.com/src-d/hercules) ⭐ 2,807 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,531 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
 * [enry](https://github.com/src-d/enry) ⭐ 455 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
@@ -365,7 +365,7 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Utilities
 
 * [go-git](https://github.com/src-d/go-git) ⚠️ Archived - Highly extensible Git implementation in pure Go which is friendly to data mining.
-* [kmcuda](https://github.com/src-d/kmcuda) ⭐ 839 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2022-10-11 - k-means on CUDA to cluster and to search for nearest neighbors in dense space.
+* [kmcuda](https://github.com/src-d/kmcuda) ⭐ 840 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2022-10-11 - k-means on CUDA to cluster and to search for nearest neighbors in dense space.
 * [wmd-relax](https://github.com/src-d/wmd-relax) ⭐ 457 | 🐛 19 | 🌐 Python | 📅 2023-08-17 - Python package which finds nearest neighbors at Word Mover's Distance.
 * [engine](https://github.com/src-d/engine) ⭐ 194 | 🐛 21 | 🌐 Go | 📅 2019-11-07 - Scalable and distributed data retrieval pipeline for source code.
 * [minhashcuda](https://github.com/src-d/minhashcuda) ⭐ 122 | 🐛 2 | 🌐 C++ | 📅 2023-11-29 - Weighted MinHash implementation on CUDA to efficiently find duplicates.
@@ -399,11 +399,11 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,284 | 🐛 34 | 🌐 Python | 📅 2026-09-08.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,294 | 🐛 34 | 🌐 Python | 📅 2026-09-08.
 
 ## Contributions
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,632 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,632 | 🐛 8 | 📅 2020-12-03.
+See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,634 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,634 | 🐛 8 | 📅 2020-12-03.
 
 ## License
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
