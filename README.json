@@ -104,7 +104,7 @@
                 "open_issues": 7,
                 "owner": "xgdsmileboy",
                 "repo": "SimFix",
-                "stars": 206,
+                "stars": 205,
                 "topics": [
                   "automatic",
                   "debugging-tool"
@@ -199,7 +199,7 @@
                 "open_issues": 5,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39730,
+                "stars": 39738,
                 "topics": [
                   "agents",
                   "ai",
@@ -236,7 +236,7 @@
                 "open_issues": 50,
                 "owner": "src-d",
                 "repo": "hercules",
-                "stars": 2807,
+                "stars": 2808,
                 "topics": [
                   "burndown",
                   "git",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T21:54:12.295Z",
+    "last_updated": "2026-09-15T21:28:47.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6636,
+      "stars": 6637,
       "topics": [
         "awesome",
         "awesome-list",
