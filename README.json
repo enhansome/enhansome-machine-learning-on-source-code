@@ -199,7 +199,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39761,
+                "stars": 39763,
                 "topics": [
                   "agents",
                   "ai",
@@ -597,7 +597,7 @@
                 "open_issues": 1,
                 "owner": "mast-group",
                 "repo": "tassal",
-                "stars": 43,
+                "stars": 42,
                 "topics": [
                   "machine-learning",
                   "ml4code",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:02:34.028Z",
+    "last_updated": "2026-09-22T21:26:50.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
