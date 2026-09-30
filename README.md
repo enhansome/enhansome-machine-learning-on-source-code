@@ -112,7 +112,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Source Code Analysis and Language modeling
 
-* <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Convolutional Neural Networks over Tree Structures for Programming Language Processing](https://arxiv.org/abs/1409.5718) - Lili Mou, Ge Li, Lu Zhang, Tao Wang, Zhi Jin, AAAI-16. [Code](https://github.com/crestonbunch/tbcnn) ⭐ 154 | 🐛 12 | 🌐 Python | 📅 2017-09-09.
+* <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Convolutional Neural Networks over Tree Structures for Programming Language Processing](https://arxiv.org/abs/1409.5718) - Lili Mou, Ge Li, Lu Zhang, Tao Wang, Zhi Jin, AAAI-16. [Code](https://github.com/crestonbunch/tbcnn) ⭐ 155 | 🐛 12 | 🌐 Python | 📅 2017-09-09.
 * <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Deep Learning Type Inference](http://vhellendoorn.github.io/PDF/fse2018-j2t.pdf) - Vincent J. Hellendoorn, Christian Bird, Earl T. Barr and Miltiadis Allamanis, FSE 2018. [Code](https://github.com/DeepTyper/DeepTyper) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2020-02-12.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Modeling Vocabulary for Big Code Machine Learning](https://arxiv.org/abs/1904.01873v1) - Hlib Babii, Andrea Janes, Romain Robbes, 2019.
 * <img src="badges/24-pages-gray.svg" alt="24-pages" align="top"> [Generative Code Modeling with Graphs](https://openreview.net/forum?id=Bke4KsA5FX) - Marc Brockschmidt, Miltiadis Allamanis, Alexander L. Gaunt, Oleksandr Polozov, ICLR 2019.
@@ -399,11 +399,11 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,494 | 🐛 22 | 🌐 Python | 📅 2026-09-22.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,504 | 🐛 22 | 🌐 Python | 📅 2026-09-30.
 
 ## Contributions
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,642 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,642 | 🐛 8 | 📅 2020-12-03.
+See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://github.com/src-d/awesome-machine-learning-on-source-code/pulls) ⭐ 6,641 | 🐛 8 | 📅 2020-12-03 which is [signed off](https://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/CONTRIBUTING.md#certificate-of-origin) ⭐ 6,641 | 🐛 8 | 📅 2020-12-03.
 
 ## License
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
