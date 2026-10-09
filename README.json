@@ -104,7 +104,7 @@
                 "open_issues": 7,
                 "owner": "xgdsmileboy",
                 "repo": "SimFix",
-                "stars": 205,
+                "stars": 204,
                 "topics": [
                   "automatic",
                   "debugging-tool"
@@ -236,7 +236,7 @@
                 "open_issues": 50,
                 "owner": "src-d",
                 "repo": "hercules",
-                "stars": 2809,
+                "stars": 2810,
                 "topics": [
                   "burndown",
                   "git",
@@ -314,7 +314,7 @@
                 "open_issues": 25,
                 "owner": "guxd",
                 "repo": "deep-code-search",
-                "stars": 285,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
@@ -702,7 +702,7 @@
                 "open_issues": 226,
                 "owner": "src-d",
                 "repo": "go-git",
-                "stars": 4873,
+                "stars": 4872,
                 "topics": [
                   "git",
                   "git-client",
@@ -872,7 +872,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "CodeSearchNet",
-                "stars": 2445,
+                "stars": 2444,
                 "topics": [
                   "bert",
                   "cnn",
@@ -991,7 +991,7 @@
                 "open_issues": 1,
                 "owner": "LittleYUYU",
                 "repo": "StackOverflow-Question-Code-Dataset",
-                "stars": 170,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:26:22.668Z",
+    "last_updated": "2026-10-09T22:44:08.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6651,
+      "stars": 6649,
       "topics": [
         "awesome",
         "awesome-list",

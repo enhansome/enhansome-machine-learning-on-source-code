@@ -3,7 +3,7 @@
 ![Awesome Machine Learning On Source Code](img/awesome-machine-learning-artwork.png)
 
 **Notice: This repository is no longer actively maintained, and no further updates will be done, nor issues/PRs will be answered or attended.**
-An alternative actively maintained can be found at [ml4code.github.io](https://ml4code.github.io/papers.html) [repository](https://github.com/ml4code/ml4code.github.io) ⭐ 295 | 🐛 4 | 🌐 CSS | 📅 2025-02-07.
+An alternative actively maintained can be found at [ml4code.github.io](https://ml4code.github.io/papers.html) [repository](https://github.com/ml4code/ml4code.github.io) ⭐ 293 | 🐛 4 | 🌐 CSS | 📅 2025-02-07.
 
 A curated list of awesome research papers, datasets and software projects devoted to machine learning *and* source code. [#MLonCode](https://twitter.com/hashtag/MLonCode)
 
@@ -184,7 +184,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Program Repair and Bug Detection
 
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Shaping Program Repair Space with Existing Patches and Similar Code](https://xiongyingfei.github.io/papers/ISSTA18a.pdf) - Jiajun Jiang, Yingfei Xiong, Hongyu Zhang, Qing Gao, Xiangqun Chen, 2018. ([code](https://github.com/xgdsmileboy/SimFix) ⭐ 205 | 🐛 7 | 🌐 Java | 📅 2023-04-10).
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Shaping Program Repair Space with Existing Patches and Similar Code](https://xiongyingfei.github.io/papers/ISSTA18a.pdf) - Jiajun Jiang, Yingfei Xiong, Hongyu Zhang, Qing Gao, Xiangqun Chen, 2018. ([code](https://github.com/xgdsmileboy/SimFix) ⭐ 204 | 🐛 7 | 🌐 Java | 📅 2023-04-10).
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [SampleFix: Learning to Correct Programs by Sampling Diverse Fixes](https://arxiv.org/abs/1906.10502) - Hossein Hajipour, Apratim Bhattacharya, Mario Fritz, 2019.
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Maximal Divergence Sequential Autoencoder for Binary Software Vulnerability Detection](https://openreview.net/forum?id=ByloIiCqYQ) - Tue Le, Tuan Nguyen, Trung Le, Dinh Phung, Paul Montague, Olivier De Vel, Lizhen Qu, ICLR 2019.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Neural Program Repair by Jointly Learning to Localize and Repair](https://openreview.net/forum?id=ByloJ20qtm) - Marko Vasic, Aditya Kanade, Petros Maniatis, David Bieber, Rishabh Singh, ICLR 2019.
@@ -340,10 +340,10 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Machine Learning
 
 * [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,786 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
-* [hercules](https://github.com/src-d/hercules) ⭐ 2,809 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
+* [hercules](https://github.com/src-d/hercules) ⭐ 2,810 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,534 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
 * [enry](https://github.com/src-d/enry) ⭐ 455 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
-* [DeepCS](https://github.com/guxd/deep-code-search) ⭐ 285 | 🐛 25 | 🌐 Python | 📅 2022-05-26 - Keras and Pytorch implementations of DeepCS (Deep Code Search).
+* [DeepCS](https://github.com/guxd/deep-code-search) ⭐ 284 | 🐛 25 | 🌐 Python | 📅 2022-05-26 - Keras and Pytorch implementations of DeepCS (Deep Code Search).
 * [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn) ⭐ 237 | 🐛 4 | 🌐 Python | 📅 2023-01-23 - CODE-NN, uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Torch over C#/SQL
 * [DeepBugs](https://github.com/michaelpradel/DeepBugs) ⭐ 153 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-07 - Framework for learning bug detectors from an existing code corpus.
 * [sourced.ml](https://github.com/src-d/ml) ⚠️ Archived - Abstracts feature extraction from source code syntax trees and working with ML models.
@@ -379,7 +379,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * [NL2Bash](https://github.com/TellinaTool/nl2bash) ⭐ 520 | 🐛 12 | 🌐 NewLisp | 📅 2026-09-02 - This dataset contains a set of \~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
 * [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) ⭐ 349 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2019-11-27 - 6 TB of Git repositories from GitHub.
 * [card2code](https://github.com/deepmind/card2code) ⚠️ Archived - This dataset contains the language to code datasets described in the paper [Latent Predictor Networks for Code Generation](#card2code).
-* [StackOverflow Question-Code Dataset](https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset) ⭐ 170 | 🐛 1 | 🌐 Python | 📅 2021-08-28 - \~148K Python and \~120K SQL question-code pairs mined from StackOverflow.
+* [StackOverflow Question-Code Dataset](https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset) ⭐ 169 | 🐛 1 | 🌐 Python | 📅 2021-08-28 - \~148K Python and \~120K SQL question-code pairs mined from StackOverflow.
 * [Neural-Code-Search-Evaluation-Dataset](https://github.com/facebookresearch/Neural-Code-Search-Evaluation-Dataset) ⚠️ Archived - dataset contains links to 4.7M methods from 24k+ repositories with 287 StackOverflow questions and code snippet answers.
 * [GitHub Issue Titles and Descriptions for NLP Analysis](https://www.kaggle.com/davidshinn/github-issues/) - \~8 million GitHub issue titles and descriptions from 2017.
 * [GitHub repositories - languages distribution](https://data.world/source-d/github-repositories-languages-distribution) - Programming languages distribution in 14,000,000 repositories on GitHub (October 2016).
@@ -399,7 +399,7 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,549 | 🐛 22 | 🌐 Python | 📅 2026-10-07.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,557 | 🐛 24 | 🌐 Python | 📅 2026-10-07.
 
 ## Contributions
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
