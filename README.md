@@ -379,7 +379,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * [NL2Bash](https://github.com/TellinaTool/nl2bash) ⭐ 520 | 🐛 12 | 🌐 NewLisp | 📅 2026-09-02 - This dataset contains a set of \~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
 * [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) ⭐ 349 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2019-11-27 - 6 TB of Git repositories from GitHub.
 * [card2code](https://github.com/deepmind/card2code) ⚠️ Archived - This dataset contains the language to code datasets described in the paper [Latent Predictor Networks for Code Generation](#card2code).
-* [StackOverflow Question-Code Dataset](https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset) ⭐ 169 | 🐛 1 | 🌐 Python | 📅 2021-08-28 - \~148K Python and \~120K SQL question-code pairs mined from StackOverflow.
+* [StackOverflow Question-Code Dataset](https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset) ⭐ 170 | 🐛 1 | 🌐 Python | 📅 2021-08-28 - \~148K Python and \~120K SQL question-code pairs mined from StackOverflow.
 * [Neural-Code-Search-Evaluation-Dataset](https://github.com/facebookresearch/Neural-Code-Search-Evaluation-Dataset) ⚠️ Archived - dataset contains links to 4.7M methods from 24k+ repositories with 287 StackOverflow questions and code snippet answers.
 * [GitHub Issue Titles and Descriptions for NLP Analysis](https://www.kaggle.com/davidshinn/github-issues/) - \~8 million GitHub issue titles and descriptions from 2017.
 * [GitHub repositories - languages distribution](https://data.world/source-d/github-repositories-languages-distribution) - Programming languages distribution in 14,000,000 repositories on GitHub (October 2016).
@@ -399,7 +399,7 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,557 | 🐛 24 | 🌐 Python | 📅 2026-10-07.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,566 | 🐛 23 | 🌐 Python | 📅 2026-10-09.
 
 ## Contributions
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

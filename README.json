@@ -991,7 +991,7 @@
                 "open_issues": 1,
                 "owner": "LittleYUYU",
                 "repo": "StackOverflow-Question-Code-Dataset",
-                "stars": 169,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T22:44:08.685Z",
+    "last_updated": "2026-10-10T21:51:31.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
