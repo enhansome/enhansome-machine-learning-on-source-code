@@ -195,11 +195,11 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-09-16T21:37:33Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-13T13:09:00Z",
+                "open_issues": 8,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39790,
+                "stars": 39794,
                 "topics": [
                   "agents",
                   "ai",
@@ -236,7 +236,7 @@
                 "open_issues": 50,
                 "owner": "src-d",
                 "repo": "hercules",
-                "stars": 2811,
+                "stars": 2812,
                 "topics": [
                   "burndown",
                   "git",
@@ -266,7 +266,7 @@
                 "open_issues": 9,
                 "owner": "google-deepmind",
                 "repo": "dnc",
-                "stars": 2534,
+                "stars": 2535,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
@@ -287,7 +287,7 @@
                 "open_issues": 22,
                 "owner": "src-d",
                 "repo": "enry",
-                "stars": 455,
+                "stars": 456,
                 "topics": [
                   "cli",
                   "golang",
@@ -702,7 +702,7 @@
                 "open_issues": 226,
                 "owner": "src-d",
                 "repo": "go-git",
-                "stars": 4871,
+                "stars": 4872,
                 "topics": [
                   "git",
                   "git-client",
@@ -872,7 +872,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "CodeSearchNet",
-                "stars": 2444,
+                "stars": 2445,
                 "topics": [
                   "bert",
                   "cnn",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T00:49:28.168Z",
+    "last_updated": "2026-10-13T22:54:49.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
