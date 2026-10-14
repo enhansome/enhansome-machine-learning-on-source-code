@@ -195,11 +195,11 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-10-13T13:09:00Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-14T16:44:03Z",
+                "open_issues": 7,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39794,
+                "stars": 39796,
                 "topics": [
                   "agents",
                   "ai",
@@ -287,7 +287,7 @@
                 "open_issues": 22,
                 "owner": "src-d",
                 "repo": "enry",
-                "stars": 456,
+                "stars": 455,
                 "topics": [
                   "cli",
                   "golang",
@@ -942,7 +942,7 @@
                 "open_issues": 26,
                 "owner": "src-d",
                 "repo": "datasets",
-                "stars": 349,
+                "stars": 348,
                 "topics": [
                   "dataset",
                   "datasets",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T22:54:49.326Z",
+    "last_updated": "2026-10-14T21:47:55.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6650,
+      "stars": 6649,
       "topics": [
         "awesome",
         "awesome-list",
