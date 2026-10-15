@@ -353,7 +353,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2021-04-07T14:46:09Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "michaelpradel",
                 "repo": "DeepBugs",
                 "stars": 153,
@@ -729,7 +729,7 @@
                 "open_issues": 48,
                 "owner": "src-d",
                 "repo": "kmcuda",
-                "stars": 840,
+                "stars": 841,
                 "topics": [
                   "afk-mc2",
                   "cuda",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:47:55.866Z",
+    "last_updated": "2026-10-15T21:31:03.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6649,
+      "stars": 6651,
       "topics": [
         "awesome",
         "awesome-list",
