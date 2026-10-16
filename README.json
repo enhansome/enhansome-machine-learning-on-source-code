@@ -199,7 +199,7 @@
                 "open_issues": 7,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39796,
+                "stars": 39802,
                 "topics": [
                   "agents",
                   "ai",
@@ -353,7 +353,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2021-04-07T14:46:09Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "michaelpradel",
                 "repo": "DeepBugs",
                 "stars": 153,
@@ -872,7 +872,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "CodeSearchNet",
-                "stars": 2445,
+                "stars": 2444,
                 "topics": [
                   "bert",
                   "cnn",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T21:31:03.581Z",
+    "last_updated": "2026-10-16T21:21:21.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6651,
+      "stars": 6652,
       "topics": [
         "awesome",
         "awesome-list",
