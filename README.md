@@ -184,7 +184,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Program Repair and Bug Detection
 
-* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Shaping Program Repair Space with Existing Patches and Similar Code](https://xiongyingfei.github.io/papers/ISSTA18a.pdf) - Jiajun Jiang, Yingfei Xiong, Hongyu Zhang, Qing Gao, Xiangqun Chen, 2018. ([code](https://github.com/xgdsmileboy/SimFix) ⭐ 204 | 🐛 7 | 🌐 Java | 📅 2023-04-10).
+* <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Shaping Program Repair Space with Existing Patches and Similar Code](https://xiongyingfei.github.io/papers/ISSTA18a.pdf) - Jiajun Jiang, Yingfei Xiong, Hongyu Zhang, Qing Gao, Xiangqun Chen, 2018. ([code](https://github.com/xgdsmileboy/SimFix) ⭐ 205 | 🐛 7 | 🌐 Java | 📅 2023-04-10).
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [SampleFix: Learning to Correct Programs by Sampling Diverse Fixes](https://arxiv.org/abs/1906.10502) - Hossein Hajipour, Apratim Bhattacharya, Mario Fritz, 2019.
 * <img src="badges/15-pages-gray.svg" alt="15-pages" align="top"> [Maximal Divergence Sequential Autoencoder for Binary Software Vulnerability Detection](https://openreview.net/forum?id=ByloIiCqYQ) - Tue Le, Tuan Nguyen, Trung Le, Dinh Phung, Paul Montague, Olivier De Vel, Lizhen Qu, ICLR 2019.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Neural Program Repair by Jointly Learning to Localize and Repair](https://openreview.net/forum?id=ByloJ20qtm) - Marko Vasic, Aditya Kanade, Petros Maniatis, David Bieber, Rishabh Singh, ICLR 2019.
@@ -339,7 +339,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Machine Learning
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,800 | 🐛 7 | 🌐 Makefile | 📅 2026-10-14 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,800 | 🐛 8 | 🌐 Makefile | 📅 2026-10-19 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
 * [hercules](https://github.com/src-d/hercules) ⭐ 2,811 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,535 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
 * [enry](https://github.com/src-d/enry) ⭐ 455 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
@@ -365,7 +365,7 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Utilities
 
 * [go-git](https://github.com/src-d/go-git) ⚠️ Archived - Highly extensible Git implementation in pure Go which is friendly to data mining.
-* [kmcuda](https://github.com/src-d/kmcuda) ⭐ 841 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2022-10-11 - k-means on CUDA to cluster and to search for nearest neighbors in dense space.
+* [kmcuda](https://github.com/src-d/kmcuda) ⭐ 840 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2022-10-11 - k-means on CUDA to cluster and to search for nearest neighbors in dense space.
 * [wmd-relax](https://github.com/src-d/wmd-relax) ⭐ 457 | 🐛 19 | 🌐 Python | 📅 2023-08-17 - Python package which finds nearest neighbors at Word Mover's Distance.
 * [engine](https://github.com/src-d/engine) ⭐ 194 | 🐛 21 | 🌐 Go | 📅 2019-11-07 - Scalable and distributed data retrieval pipeline for source code.
 * [minhashcuda](https://github.com/src-d/minhashcuda) ⭐ 122 | 🐛 2 | 🌐 C++ | 📅 2023-11-29 - Weighted MinHash implementation on CUDA to efficiently find duplicates.
@@ -399,7 +399,7 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,611 | 🐛 23 | 🌐 Python | 📅 2026-10-13.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,616 | 🐛 23 | 🌐 Python | 📅 2026-10-19.
 
 ## Contributions
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
