@@ -195,7 +195,7 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-10-19T21:22:27Z",
+                "last_commit": "2026-10-21T16:21:42Z",
                 "open_issues": 8,
                 "owner": "mindsdb",
                 "repo": "mindshub",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T21:42:57.402Z",
+    "last_updated": "2026-10-21T21:49:07.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6656,
+      "stars": 6658,
       "topics": [
         "awesome",
         "awesome-list",
