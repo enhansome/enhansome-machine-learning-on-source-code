@@ -113,7 +113,7 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Source Code Analysis and Language modeling
 
 * <img src="badges/8-pages-gray.svg" alt="8-pages" align="top"> [Convolutional Neural Networks over Tree Structures for Programming Language Processing](https://arxiv.org/abs/1409.5718) - Lili Mou, Ge Li, Lu Zhang, Tao Wang, Zhi Jin, AAAI-16. [Code](https://github.com/crestonbunch/tbcnn) ⭐ 155 | 🐛 12 | 🌐 Python | 📅 2017-09-09.
-* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Deep Learning Type Inference](http://vhellendoorn.github.io/PDF/fse2018-j2t.pdf) - Vincent J. Hellendoorn, Christian Bird, Earl T. Barr and Miltiadis Allamanis, FSE 2018. [Code](https://github.com/DeepTyper/DeepTyper) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2020-02-12.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [Deep Learning Type Inference](http://vhellendoorn.github.io/PDF/fse2018-j2t.pdf) - Vincent J. Hellendoorn, Christian Bird, Earl T. Barr and Miltiadis Allamanis, FSE 2018. [Code](https://github.com/DeepTyper/DeepTyper) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2020-02-12.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Modeling Vocabulary for Big Code Machine Learning](https://arxiv.org/abs/1904.01873v1) - Hlib Babii, Andrea Janes, Romain Robbes, 2019.
 * <img src="badges/24-pages-gray.svg" alt="24-pages" align="top"> [Generative Code Modeling with Graphs](https://openreview.net/forum?id=Bke4KsA5FX) - Marc Brockschmidt, Miltiadis Allamanis, Alexander L. Gaunt, Oleksandr Polozov, ICLR 2019.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [NL2Type: Inferring JavaScript Function Types from Natural Language Information](http://software-lab.org/publications/icse2019_NL2Type.pdf) - Rabee Sohail Malik, Jibesh Patra, Michael Pradel, ICSE 2019.
@@ -339,7 +339,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Machine Learning
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,801 | 🐛 8 | 🌐 Makefile | 📅 2026-10-21 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,806 | 🐛 8 | 🌐 Makefile | 📅 2026-10-21 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
 * [hercules](https://github.com/src-d/hercules) ⭐ 2,811 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,535 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
 * [enry](https://github.com/src-d/enry) ⭐ 455 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
@@ -399,7 +399,7 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,636 | 🐛 23 | 🌐 Python | 📅 2026-10-19.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,643 | 🐛 23 | 🌐 Python | 📅 2026-10-22.
 
 ## Contributions
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

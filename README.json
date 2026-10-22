@@ -48,7 +48,7 @@
                 "open_issues": 0,
                 "owner": "DeepTyper",
                 "repo": "DeepTyper",
-                "stars": 50,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
@@ -199,7 +199,7 @@
                 "open_issues": 8,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39801,
+                "stars": 39806,
                 "topics": [
                   "agents",
                   "ai",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T21:49:07.858Z",
+    "last_updated": "2026-10-22T21:44:19.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6658,
+      "stars": 6659,
       "topics": [
         "awesome",
         "awesome-list",
