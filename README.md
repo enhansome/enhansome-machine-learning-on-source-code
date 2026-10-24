@@ -366,7 +366,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 * [go-git](https://github.com/src-d/go-git) ⚠️ Archived - Highly extensible Git implementation in pure Go which is friendly to data mining.
 * [kmcuda](https://github.com/src-d/kmcuda) ⭐ 840 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2022-10-11 - k-means on CUDA to cluster and to search for nearest neighbors in dense space.
-* [wmd-relax](https://github.com/src-d/wmd-relax) ⭐ 457 | 🐛 19 | 🌐 Python | 📅 2023-08-17 - Python package which finds nearest neighbors at Word Mover's Distance.
+* [wmd-relax](https://github.com/src-d/wmd-relax) ⭐ 458 | 🐛 19 | 🌐 Python | 📅 2023-08-17 - Python package which finds nearest neighbors at Word Mover's Distance.
 * [engine](https://github.com/src-d/engine) ⭐ 194 | 🐛 21 | 🌐 Go | 📅 2019-11-07 - Scalable and distributed data retrieval pipeline for source code.
 * [minhashcuda](https://github.com/src-d/minhashcuda) ⭐ 122 | 🐛 2 | 🌐 C++ | 📅 2023-11-29 - Weighted MinHash implementation on CUDA to efficiently find duplicates.
 * [source{d} models](https://github.com/src-d/models) ⭐ 19 | 🐛 5 | 📅 2019-10-30 - Machine Learning models for MLonCode trained using the source{d} stack.
@@ -399,7 +399,7 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,649 | 🐛 24 | 🌐 Python | 📅 2026-10-22.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,653 | 🐛 24 | 🌐 Python | 📅 2026-10-22.
 
 ## Contributions
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

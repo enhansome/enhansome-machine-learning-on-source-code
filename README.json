@@ -702,7 +702,7 @@
                 "open_issues": 226,
                 "owner": "src-d",
                 "repo": "go-git",
-                "stars": 4872,
+                "stars": 4873,
                 "topics": [
                   "git",
                   "git-client",
@@ -759,7 +759,7 @@
                 "open_issues": 19,
                 "owner": "src-d",
                 "repo": "wmd-relax",
-                "stars": 457,
+                "stars": 458,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T21:30:30.439Z",
+    "last_updated": "2026-10-24T20:58:03.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
