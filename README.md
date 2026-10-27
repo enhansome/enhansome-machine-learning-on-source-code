@@ -341,7 +341,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 * [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,829 | 🐛 8 | 🌐 Makefile | 📅 2026-10-23 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
 * [hercules](https://github.com/src-d/hercules) ⭐ 2,811 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
-* [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,535 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
+* [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,534 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
 * [enry](https://github.com/src-d/enry) ⭐ 455 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
 * [DeepCS](https://github.com/guxd/deep-code-search) ⭐ 284 | 🐛 25 | 🌐 Python | 📅 2022-05-26 - Keras and Pytorch implementations of DeepCS (Deep Code Search).
 * [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn) ⭐ 237 | 🐛 4 | 🌐 Python | 📅 2023-01-23 - CODE-NN, uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Torch over C#/SQL
@@ -399,7 +399,7 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,667 | 🐛 27 | 🌐 Python | 📅 2026-10-22.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,677 | 🐛 28 | 🌐 Python | 📅 2026-10-27.
 
 ## Contributions
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
