@@ -199,7 +199,7 @@
                 "open_issues": 8,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39831,
+                "stars": 39832,
                 "topics": [
                   "agents",
                   "ai",
@@ -266,7 +266,7 @@
                 "open_issues": 9,
                 "owner": "google-deepmind",
                 "repo": "dnc",
-                "stars": 2534,
+                "stars": 2535,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
@@ -872,7 +872,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "CodeSearchNet",
-                "stars": 2440,
+                "stars": 2441,
                 "topics": [
                   "bert",
                   "cnn",
@@ -914,7 +914,7 @@
                 "open_issues": 12,
                 "owner": "TellinaTool",
                 "repo": "nl2bash",
-                "stars": 521,
+                "stars": 522,
                 "topics": [
                   "copynet",
                   "natural-language-interface",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T22:41:34.737Z",
+    "last_updated": "2026-10-29T22:50:55.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
