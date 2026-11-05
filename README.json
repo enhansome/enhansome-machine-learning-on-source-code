@@ -199,7 +199,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39836,
+                "stars": 39841,
                 "topics": [
                   "agents",
                   "ai",
@@ -266,7 +266,7 @@
                 "open_issues": 9,
                 "owner": "google-deepmind",
                 "repo": "dnc",
-                "stars": 2536,
+                "stars": 2537,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
@@ -314,7 +314,7 @@
                 "open_issues": 25,
                 "owner": "guxd",
                 "repo": "deep-code-search",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
@@ -991,7 +991,7 @@
                 "open_issues": 1,
                 "owner": "LittleYUYU",
                 "repo": "StackOverflow-Question-Code-Dataset",
-                "stars": 170,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T23:46:15.646Z",
+    "last_updated": "2026-11-05T23:42:22.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6669,
+      "stars": 6670,
       "topics": [
         "awesome",
         "awesome-list",
