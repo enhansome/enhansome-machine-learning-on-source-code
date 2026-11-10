@@ -339,10 +339,10 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Machine Learning
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,851 | 🐛 6 | 🌐 Makefile | 📅 2026-10-23 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,854 | 🐛 6 | 🌐 Makefile | 📅 2026-10-23 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
 * [hercules](https://github.com/src-d/hercules) ⭐ 2,810 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
 * [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,535 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
-* [enry](https://github.com/src-d/enry) ⭐ 455 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
+* [enry](https://github.com/src-d/enry) ⭐ 456 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
 * [DeepCS](https://github.com/guxd/deep-code-search) ⭐ 285 | 🐛 25 | 🌐 Python | 📅 2022-05-26 - Keras and Pytorch implementations of DeepCS (Deep Code Search).
 * [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn) ⭐ 237 | 🐛 4 | 🌐 Python | 📅 2023-01-23 - CODE-NN, uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Torch over C#/SQL
 * [DeepBugs](https://github.com/michaelpradel/DeepBugs) ⭐ 153 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-07 - Framework for learning bug detectors from an existing code corpus.
@@ -365,7 +365,7 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Utilities
 
 * [go-git](https://github.com/src-d/go-git) ⚠️ Archived - Highly extensible Git implementation in pure Go which is friendly to data mining.
-* [kmcuda](https://github.com/src-d/kmcuda) ⭐ 840 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2022-10-11 - k-means on CUDA to cluster and to search for nearest neighbors in dense space.
+* [kmcuda](https://github.com/src-d/kmcuda) ⭐ 841 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2022-10-11 - k-means on CUDA to cluster and to search for nearest neighbors in dense space.
 * [wmd-relax](https://github.com/src-d/wmd-relax) ⭐ 458 | 🐛 19 | 🌐 Python | 📅 2023-08-17 - Python package which finds nearest neighbors at Word Mover's Distance.
 * [engine](https://github.com/src-d/engine) ⭐ 194 | 🐛 21 | 🌐 Go | 📅 2019-11-07 - Scalable and distributed data retrieval pipeline for source code.
 * [minhashcuda](https://github.com/src-d/minhashcuda) ⭐ 122 | 🐛 2 | 🌐 C++ | 📅 2023-11-29 - Weighted MinHash implementation on CUDA to efficiently find duplicates.
@@ -399,7 +399,7 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,788 | 🐛 35 | 🌐 Python | 📅 2026-11-09.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,791 | 🐛 35 | 🌐 Python | 📅 2026-11-09.
 
 ## Contributions
 

@@ -199,7 +199,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39851,
+                "stars": 39854,
                 "topics": [
                   "agents",
                   "ai",
@@ -287,7 +287,7 @@
                 "open_issues": 22,
                 "owner": "src-d",
                 "repo": "enry",
-                "stars": 455,
+                "stars": 456,
                 "topics": [
                   "cli",
                   "golang",
@@ -702,7 +702,7 @@
                 "open_issues": 226,
                 "owner": "src-d",
                 "repo": "go-git",
-                "stars": 4874,
+                "stars": 4875,
                 "topics": [
                   "git",
                   "git-client",
@@ -729,7 +729,7 @@
                 "open_issues": 48,
                 "owner": "src-d",
                 "repo": "kmcuda",
-                "stars": 840,
+                "stars": 841,
                 "topics": [
                   "afk-mc2",
                   "cuda",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T01:38:09.222Z",
+    "last_updated": "2026-11-10T23:30:48.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6672,
+      "stars": 6673,
       "topics": [
         "awesome",
         "awesome-list",
