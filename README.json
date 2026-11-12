@@ -199,7 +199,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39859,
+                "stars": 39865,
                 "topics": [
                   "agents",
                   "ai",
@@ -236,7 +236,7 @@
                 "open_issues": 50,
                 "owner": "src-d",
                 "repo": "hercules",
-                "stars": 2811,
+                "stars": 2812,
                 "topics": [
                   "burndown",
                   "git",
@@ -702,7 +702,7 @@
                 "open_issues": 226,
                 "owner": "src-d",
                 "repo": "go-git",
-                "stars": 4874,
+                "stars": 4875,
                 "topics": [
                   "git",
                   "git-client",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T00:49:43.891Z",
+    "last_updated": "2026-11-12T23:42:14.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
