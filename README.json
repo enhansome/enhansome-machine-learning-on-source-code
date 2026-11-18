@@ -196,10 +196,10 @@
                 "language": "Makefile",
                 "license": "MIT",
                 "last_commit": "2026-10-23T21:25:34Z",
-                "open_issues": 7,
+                "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39862,
+                "stars": 39863,
                 "topics": [
                   "agents",
                   "ai",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:53:32.680Z",
+    "last_updated": "2026-11-18T01:01:23.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
