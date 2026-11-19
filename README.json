@@ -199,7 +199,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39863,
+                "stars": 39867,
                 "topics": [
                   "agents",
                   "ai",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:01:23.896Z",
+    "last_updated": "2026-11-19T00:30:35.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
