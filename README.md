@@ -340,16 +340,16 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Machine Learning
 
 * [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,867 | 🐛 6 | 🌐 Makefile | 📅 2026-10-23 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
-* [hercules](https://github.com/src-d/hercules) ⭐ 2,811 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
-* [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,537 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
-* [enry](https://github.com/src-d/enry) ⭐ 457 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
+* [hercules](https://github.com/src-d/hercules) ⭐ 2,810 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
+* [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,536 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
+* [enry](https://github.com/src-d/enry) ⭐ 456 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
 * [DeepCS](https://github.com/guxd/deep-code-search) ⭐ 285 | 🐛 25 | 🌐 Python | 📅 2022-05-26 - Keras and Pytorch implementations of DeepCS (Deep Code Search).
 * [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn) ⭐ 237 | 🐛 4 | 🌐 Python | 📅 2023-01-23 - CODE-NN, uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Torch over C#/SQL
 * [DeepBugs](https://github.com/michaelpradel/DeepBugs) ⭐ 153 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-07 - Framework for learning bug detectors from an existing code corpus.
 * [sourced.ml](https://github.com/src-d/ml) ⚠️ Archived - Abstracts feature extraction from source code syntax trees and working with ML models.
 * [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention) ⚠️ Archived - Convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens.
 * [DeepSim](https://github.com/parasol-aser/deepsim) ⭐ 66 | 🐛 8 | 🌐 Python | 📅 2019-06-11 - a deep learning-based approach to measure code functional similarity.
-* [gemini](https://github.com/src-d/gemini) ⭐ 58 | 🐛 30 | 🌐 Scala | 📅 2019-06-06 - Source code deduplication as scale, production.
+* [gemini](https://github.com/src-d/gemini) ⭐ 59 | 🐛 30 | 🌐 Scala | 📅 2019-06-06 - Source code deduplication as scale, production.
 * [Naturalize](https://github.com/mast-group/naturalize) ⚠️ Archived - Language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code.
 * [Probabilistic API Miner](https://github.com/mast-group/api-mining) ⚠️ Archived - Near parameter-free probabilistic algorithm for mining the most interesting API patterns from a list of API call sequences.
 * [apollo](https://github.com/src-d/apollo) ⭐ 51 | 🐛 12 | 🌐 Python | 📅 2022-09-05 - Source code deduplication as scale, research.
@@ -365,9 +365,9 @@ A curated list of awesome research papers, datasets and software projects devote
 #### Utilities
 
 * [go-git](https://github.com/src-d/go-git) ⚠️ Archived - Highly extensible Git implementation in pure Go which is friendly to data mining.
-* [kmcuda](https://github.com/src-d/kmcuda) ⭐ 841 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2022-10-11 - k-means on CUDA to cluster and to search for nearest neighbors in dense space.
+* [kmcuda](https://github.com/src-d/kmcuda) ⭐ 840 | 🐛 49 | 🌐 Jupyter Notebook | 📅 2022-10-11 - k-means on CUDA to cluster and to search for nearest neighbors in dense space.
 * [wmd-relax](https://github.com/src-d/wmd-relax) ⭐ 458 | 🐛 19 | 🌐 Python | 📅 2023-08-17 - Python package which finds nearest neighbors at Word Mover's Distance.
-* [engine](https://github.com/src-d/engine) ⭐ 194 | 🐛 21 | 🌐 Go | 📅 2019-11-07 - Scalable and distributed data retrieval pipeline for source code.
+* [engine](https://github.com/src-d/engine) ⭐ 195 | 🐛 21 | 🌐 Go | 📅 2019-11-07 - Scalable and distributed data retrieval pipeline for source code.
 * [minhashcuda](https://github.com/src-d/minhashcuda) ⭐ 122 | 🐛 2 | 🌐 C++ | 📅 2023-11-29 - Weighted MinHash implementation on CUDA to efficiently find duplicates.
 * [source{d} models](https://github.com/src-d/models) ⭐ 19 | 🐛 5 | 📅 2019-10-30 - Machine Learning models for MLonCode trained using the source{d} stack.
 * [bblfsh](https://github.com/bblfsh) - Self-hosted server for source code parsing.
@@ -377,7 +377,7 @@ A curated list of awesome research papers, datasets and software projects devote
 
 * [CodeSearchNet](https://github.com/github/CodeSearchNet) ⚠️ Archived -  collection of datasets and benchmarks for code retrieval using natural language. Contains 2M pairs of (`comment`, `code`).
 * [NL2Bash](https://github.com/TellinaTool/nl2bash) ⭐ 524 | 🐛 12 | 🌐 NewLisp | 📅 2026-09-02 - This dataset contains a set of \~10,000 bash one-liners collected from websites such as StackOverflow and their English descriptions written by Bash programmers, as described in the [paper](https://arxiv.org/abs/1802.08979).
-* [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) ⭐ 348 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2019-11-27 - 6 TB of Git repositories from GitHub.
+* [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) ⭐ 347 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2019-11-27 - 6 TB of Git repositories from GitHub.
 * [card2code](https://github.com/deepmind/card2code) ⚠️ Archived - This dataset contains the language to code datasets described in the paper [Latent Predictor Networks for Code Generation](#card2code).
 * [StackOverflow Question-Code Dataset](https://github.com/LittleYUYU/StackOverflow-Question-Code-Dataset) ⭐ 171 | 🐛 1 | 🌐 Python | 📅 2021-08-28 - \~148K Python and \~120K SQL question-code pairs mined from StackOverflow.
 * [Neural-Code-Search-Evaluation-Dataset](https://github.com/facebookresearch/Neural-Code-Search-Evaluation-Dataset) ⚠️ Archived - dataset contains links to 4.7M methods from 24k+ repositories with 287 StackOverflow questions and code snippet answers.
@@ -399,7 +399,7 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,849 | 🐛 35 | 🌐 Python | 📅 2026-11-12.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,852 | 🐛 35 | 🌐 Python | 📅 2026-11-12.
 
 ## Contributions
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

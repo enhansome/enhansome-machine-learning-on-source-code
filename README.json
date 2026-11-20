@@ -236,7 +236,7 @@
                 "open_issues": 50,
                 "owner": "src-d",
                 "repo": "hercules",
-                "stars": 2811,
+                "stars": 2810,
                 "topics": [
                   "burndown",
                   "git",
@@ -266,7 +266,7 @@
                 "open_issues": 9,
                 "owner": "google-deepmind",
                 "repo": "dnc",
-                "stars": 2537,
+                "stars": 2536,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
@@ -287,7 +287,7 @@
                 "open_issues": 22,
                 "owner": "src-d",
                 "repo": "enry",
-                "stars": 457,
+                "stars": 456,
                 "topics": [
                   "cli",
                   "golang",
@@ -449,7 +449,7 @@
                 "open_issues": 30,
                 "owner": "src-d",
                 "repo": "gemini",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "duplicate-detection",
                   "duplicates",
@@ -702,7 +702,7 @@
                 "open_issues": 226,
                 "owner": "src-d",
                 "repo": "go-git",
-                "stars": 4874,
+                "stars": 4873,
                 "topics": [
                   "git",
                   "git-client",
@@ -729,7 +729,7 @@
                 "open_issues": 49,
                 "owner": "src-d",
                 "repo": "kmcuda",
-                "stars": 841,
+                "stars": 840,
                 "topics": [
                   "afk-mc2",
                   "cuda",
@@ -780,7 +780,7 @@
                 "open_issues": 21,
                 "owner": "src-d",
                 "repo": "sourced-ce",
-                "stars": 194,
+                "stars": 195,
                 "topics": [
                   "charts",
                   "dashboards",
@@ -872,7 +872,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "CodeSearchNet",
-                "stars": 2442,
+                "stars": 2441,
                 "topics": [
                   "bert",
                   "cnn",
@@ -942,7 +942,7 @@
                 "open_issues": 26,
                 "owner": "src-d",
                 "repo": "datasets",
-                "stars": 348,
+                "stars": 347,
                 "topics": [
                   "dataset",
                   "datasets",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:30:35.365Z",
+    "last_updated": "2026-11-20T00:41:19.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
