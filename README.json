@@ -199,7 +199,7 @@
                 "open_issues": 6,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39868,
+                "stars": 39877,
                 "topics": [
                   "agents",
                   "ai",
@@ -914,7 +914,7 @@
                 "open_issues": 12,
                 "owner": "TellinaTool",
                 "repo": "nl2bash",
-                "stars": 524,
+                "stars": 525,
                 "topics": [
                   "copynet",
                   "natural-language-interface",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:27:29.881Z",
+    "last_updated": "2026-11-22T23:39:20.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6678,
+      "stars": 6680,
       "topics": [
         "awesome",
         "awesome-list",
