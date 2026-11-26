@@ -195,11 +195,11 @@
                 "id": 143328315,
                 "language": "Makefile",
                 "license": "MIT",
-                "last_commit": "2026-10-23T21:25:34Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-25T22:13:45Z",
+                "open_issues": 7,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39888,
+                "stars": 39892,
                 "topics": [
                   "agents",
                   "ai",
@@ -872,7 +872,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "CodeSearchNet",
-                "stars": 2441,
+                "stars": 2443,
                 "topics": [
                   "bert",
                   "cnn",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T02:35:32.379Z",
+    "last_updated": "2026-11-26T01:49:59.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6681,
+      "stars": 6682,
       "topics": [
         "awesome",
         "awesome-list",
