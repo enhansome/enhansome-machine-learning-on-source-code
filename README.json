@@ -199,7 +199,7 @@
                 "open_issues": 7,
                 "owner": "mindsdb",
                 "repo": "mindshub",
-                "stars": 39892,
+                "stars": 39896,
                 "topics": [
                   "agents",
                   "ai",
@@ -266,7 +266,7 @@
                 "open_issues": 9,
                 "owner": "google-deepmind",
                 "repo": "dnc",
-                "stars": 2536,
+                "stars": 2535,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:47:30.201Z"
@@ -449,7 +449,7 @@
                 "open_issues": 30,
                 "owner": "src-d",
                 "repo": "gemini",
-                "stars": 59,
+                "stars": 60,
                 "topics": [
                   "duplicate-detection",
                   "duplicates",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:49:59.656Z",
+    "last_updated": "2026-11-27T01:47:34.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cool links & research papers related to Machine Learning applied to source code (MLonCode)",
@@ -1039,7 +1039,7 @@
       "open_issues": 8,
       "owner": "src-d",
       "repo": "awesome-machine-learning-on-source-code",
-      "stars": 6682,
+      "stars": 6681,
       "topics": [
         "awesome",
         "awesome-list",

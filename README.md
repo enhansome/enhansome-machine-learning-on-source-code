@@ -339,9 +339,9 @@ A curated list of awesome research papers, datasets and software projects devote
 
 #### Machine Learning
 
-* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,892 | 🐛 7 | 🌐 Makefile | 📅 2026-11-25 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
+* [MindsDB](https://github.com/mindsdb/mindsdb) ⭐ 39,896 | 🐛 7 | 🌐 Makefile | 📅 2026-11-25 - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
 * [hercules](https://github.com/src-d/hercules) ⭐ 2,810 | 🐛 50 | 🌐 Go | 📅 2023-02-07 - Git repository mining framework with batteries on top of go-git.
-* [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,536 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
+* [Differentiable Neural Computer (DNC)](https://github.com/deepmind/dnc) ⭐ 2,535 | 🐛 9 | 🌐 Python | 📅 2021-07-23 - TensorFlow implementation of the Differentiable Neural Computer.
 * [enry](https://github.com/src-d/enry) ⭐ 456 | 🐛 22 | 🌐 Go | 📅 2021-11-14 - Insanely fast file based programming language detector.
 * [DeepCS](https://github.com/guxd/deep-code-search) ⭐ 285 | 🐛 25 | 🌐 Python | 📅 2022-05-26 - Keras and Pytorch implementations of DeepCS (Deep Code Search).
 * [Summarizing Source Code using a Neural Attention Model](https://github.com/sriniiyer/codenn) ⭐ 237 | 🐛 4 | 🌐 Python | 📅 2023-01-23 - CODE-NN, uses LSTM networks with attention to produce sentences that describe C# code snippets and SQL queries from StackOverflow. Torch over C#/SQL
@@ -349,7 +349,7 @@ A curated list of awesome research papers, datasets and software projects devote
 * [sourced.ml](https://github.com/src-d/ml) ⚠️ Archived - Abstracts feature extraction from source code syntax trees and working with ML models.
 * [Extreme Source Code Summarization](https://github.com/mast-group/convolutional-attention) ⚠️ Archived - Convolutional attention neural network that learns to summarize source code into a short method name-like summary by just looking at the source code tokens.
 * [DeepSim](https://github.com/parasol-aser/deepsim) ⭐ 66 | 🐛 8 | 🌐 Python | 📅 2019-06-11 - a deep learning-based approach to measure code functional similarity.
-* [gemini](https://github.com/src-d/gemini) ⭐ 59 | 🐛 30 | 🌐 Scala | 📅 2019-06-06 - Source code deduplication as scale, production.
+* [gemini](https://github.com/src-d/gemini) ⭐ 60 | 🐛 30 | 🌐 Scala | 📅 2019-06-06 - Source code deduplication as scale, production.
 * [Naturalize](https://github.com/mast-group/naturalize) ⚠️ Archived - Language agnostic framework for learning coding conventions from a codebase and then expoiting this information for suggesting better identifier names and formatting changes in the code.
 * [Probabilistic API Miner](https://github.com/mast-group/api-mining) ⚠️ Archived - Near parameter-free probabilistic algorithm for mining the most interesting API patterns from a list of API call sequences.
 * [apollo](https://github.com/src-d/apollo) ⭐ 51 | 🐛 12 | 🌐 Python | 📅 2022-09-05 - Source code deduplication as scale, research.
@@ -399,7 +399,7 @@ A curated list of awesome research papers, datasets and software projects devote
 ## Credits
 
 * A lot of references and articles were taken from [mast-group](https://mast-group.github.io/).
-* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,912 | 🐛 41 | 🌐 Python | 📅 2026-11-25.
+* Inspired by [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,920 | 🐛 41 | 🌐 Python | 📅 2026-11-25.
 
 ## Contributions
 
@@ -411,4 +411,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). TL;DR: create a [pull request](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
